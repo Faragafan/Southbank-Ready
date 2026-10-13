@@ -1,0 +1,61 @@
+500|Buka peringatan resmi terkini ↗|افتح التحذيرات الرسمية الحالية ↗|打开当前官方预警 ↗|開啟當前官方預警 ↗|Apri le allerte ufficiali attuali ↗
+501|Sesuaikan agar nyaman.|اجعل الاستخدام مريحًا.|调整到适合你的方式。|調整到適合你的方式。|Rendilo comodo per te.
+502|Gunakan pengaturan ini di kedua jalur. Tidak ada penghitung waktu, efek berkedip, atau instruksi hanya suara.|استخدم هذه الإعدادات في أي مسار. لا توجد مؤقتات أو وميض أو تعليمات صوتية فقط.|这些设置适用于两条路径。没有倒计时、闪烁效果或仅靠声音传达的指示。|這些設定適用於兩條路徑。沒有倒數計時、閃爍效果或僅靠聲音傳達的指示。|Usa queste impostazioni in entrambi i percorsi. Niente timer, lampeggi o istruzioni solo audio.
+503|Teks lebih besar|نص أكبر|大字体|大字體|Testo più grande
+504|Perbesar ukuran teks dasar di seluruh modul.|كبّر حجم النص الأساسي في الوحدة كلها.|增大整个模块的基础字号。|增大整個單元的基礎字體大小。|Aumenta il testo di base in tutto il modulo.
+505|Kontras lebih tinggi|تباين أعلى|高对比度|高對比度|Contrasto più alto
+506|Teks lebih gelap dan batas lebih jelas.|نص أغمق وحدود أوضح.|更深的文字和更明显的边界。|更深的文字和更明顯的邊界。|Testo più scuro e bordi più definiti.
+507|Tips keyboard|نصائح لوحة المفاتيح|键盘操作提示|鍵盤操作提示|Suggerimenti per la tastiera
+508|Gunakan Tab untuk berpindah, Enter atau Spasi untuk memilih, dan Escape untuk menutup jendela. Zoom browser juga bisa digunakan.|استخدم Tab للتنقل، وEnter أو Space للاختيار، وEscape لإغلاق النافذة. يعمل تكبير المتصفح أيضًا.|用 Tab 移动焦点，Enter 或空格键选择，Escape 关闭窗口。也可使用浏览器缩放。|用 Tab 移動焦點，Enter 或空格鍵選擇，Escape 關閉視窗。也可使用瀏覽器縮放。|Usa Tab per spostarti, Invio o Spazio per scegliere ed Esc per chiudere. Puoi anche usare lo zoom del browser.
+509|Gerakan mengikuti pengaturan pengurangan animasi perangkatmu. Seluruh isi berbasis teks dan bisa digunakan dengan pembaca layar atau pembacaan browser.|تتبع الحركة إعداد تقليل الحركة في جهازك. كل المحتوى نصي ويمكن استخدامه مع أدوات القراءة في المتصفح أو قارئ الشاشة.|动态效果遵循设备的减少动态效果设置。所有内容以文字呈现，可配合浏览器朗读或屏幕阅读器使用。|動態效果遵循裝置的減少動態效果設定。所有內容以文字呈現，可配合瀏覽器朗讀或螢幕閱讀器使用。|Il movimento rispetta l’impostazione del dispositivo. Tutti i contenuti sono testuali e utilizzabili con lettura vocale del browser o screen reader.
+510|Catatanmu milikmu.|ملاحظاتك ملكك.|你的笔记由你掌握。|你的筆記由你掌握。|Le tue note sono tue.
+511|Kemajuan bab, pilihan aktivitas, pengaturan tampilan, dan latihan pemesanan hanya tersimpan di browser ini. Tidak dikirim ke server.|يُحفظ تقدّم الفصول واختيارات الأنشطة وإعدادات العرض والحجوزات التجريبية في هذا المتصفح فقط، ولا تُرسل إلى خادم.|章节进度、活动选择、显示设置和模拟预约仅保存在此浏览器，不会发送到服务器。|章節進度、活動選擇、顯示設定和模擬預約僅儲存在此瀏覽器，不會傳送到伺服器。|Progressi, scelte, impostazioni e prenotazioni di prova restano solo in questo browser. Non sono inviati a un server.
+512|Catatan pribadi tetap di halaman kecuali kamu mencentang penyimpanan catatan. Unduhan disimpan di lokasi unduhan browser. Pengguna profil browser yang sama mungkin dapat melihat catatan tersimpan.|تبقى ملاحظات الخطة في الصفحة ما لم تحدّد حفظها. تُحفظ التنزيلات حيث يحفظها المتصفح. قد يرى مستخدمو ملف المتصفح نفسه الملاحظات المحفوظة.|个人计划笔记留在页面中，除非勾选保存笔记。下载文件会存到浏览器指定位置。同一浏览器配置的其他使用者可能看到已保存笔记。|個人計劃筆記留在頁面中，除非勾選儲存筆記。下載檔案會存到瀏覽器指定位置。同一瀏覽器設定檔的其他使用者可能看到已儲存筆記。|Le note restano nella pagina salvo attivazione del salvataggio. I file scaricati vanno nella cartella del browser. Chi usa lo stesso profilo potrebbe vedere le note salvate.
+513|Peta dan tautan pemesanan eksternal punya kebijakan privasi sendiri. Catatan tidak dilampirkan ke tautan. Modul ini tidak memiliki analitik atau skrip pelacakan.|للخرائط وروابط الحجز الخارجية سياسات خصوصية خاصة بها. لا تُرفق الملاحظات بالروابط، ولا توجد أدوات تحليلات أو تتبّع في الوحدة.|外部地图及预约链接采用各自的隐私政策，不会附带计划笔记。本模块没有分析或追踪脚本。|外部地圖及預約連結採用各自的私隱政策，不會附帶計劃筆記。本單元沒有分析或追蹤程式。|Mappe e link esterni hanno proprie informative. Le note non sono allegate ai link. Il modulo non usa analisi o script di tracciamento.
+514|Hapus data belajar tersimpan|امسح بيانات تعلّمي المحفوظة|清除已保存的学习数据|清除已儲存的學習資料|Cancella i dati di apprendimento salvati
+515|Hubungkan gedungmu.|اربط مبناك.|配置你的楼宇。|設定你的樓宇。|Collega il tuo edificio.
+516|Tambahkan rincian yang diverifikasi tim gedung dan halaman pemesanan nyata. Pengaturan ini untuk penyelenggara dan terlihat oleh peserta.|أضف تفاصيل يؤكدها فريق المبنى وصفحة حجز فعلية. هذه الإعدادات للمنظّم وتظهر للمتعلّمين.|添加经楼宇团队核实的资料及真实预约页面。这些设置供组织者使用，学习者可以看到。|新增經樓宇團隊核實的資料及真實預約頁面。這些設定供主辦人使用，學習者可以看到。|Aggiungi dati verificati dal personale e una pagina di prenotazione reale. Le impostazioni sono per l’organizzatore e visibili ai partecipanti.
+517|Nama gedung|اسم المبنى|楼宇名称|樓宇名稱|Nome dell’edificio
+518|Alamat gedung|عنوان المبنى|楼宇地址|樓宇地址|Indirizzo dell’edificio
+519|Kontak gedung / darurat|جهة اتصال المبنى / الطوارئ|楼宇／紧急联系人|樓宇／緊急聯絡人|Contatto edificio / emergenze
+520|Nomor telepon dan rincian di luar jam kerja|رقم الهاتف وتفاصيل خارج ساعات العمل|联系电话及非办公时间详情|聯絡電話及非辦公時間詳情|Telefono e dettagli fuori orario
+521|Titik temu orientasi (bukan tempat berlindung banjir)|نقطة لقاء الجولة (ليست ملجأ فيضان)|导览集合点（不是洪水避难处）|導覽集合點（不是洪水避難處）|Ritrovo per l’orientamento (non rifugio alluvioni)
+522|Pintu keluar aksesibel dan rute cadangan terverifikasi|مخرج ميسّر ومسار بديل مؤكّدان|已核实的无障碍出口和备用路线|已核實的無障礙出口和備用路線|Uscita accessibile e alternativa verificate
+523|Prosedur banjir gedung / instruksi bantuan|إجراءات فيضان المبنى / تعليمات المساعدة|楼宇防洪程序／协助说明|樓宇防洪程序／協助說明|Procedura alluvioni / istruzioni di assistenza
+524|Fasilitas akses dan cakupan daya cadangan terverifikasi|مرافق وصول وتغطية طاقة احتياطية مؤكّدة|已核实的无障碍设施及备用供电范围|已核實的無障礙設施及備用供電範圍|Accessibilità e copertura elettrica di riserva verificate
+525|Tanggal pemeriksaan rincian|تاريخ التحقق من التفاصيل|资料核实日期|資料核實日期|Data di verifica dei dettagli
+526|Tautan pemesanan penghuni (HTTPS)|رابط حجز السكان (HTTPS)|居民预约链接（HTTPS）|居民預約連結（HTTPS）|Link prenotazioni residenti (HTTPS)
+528|Tautan pemesanan orientasi dengan dukungan (HTTPS, opsional)|رابط حجز الجولة مع الدعم (HTTPS، اختياري)|支持型导览预约链接（HTTPS，选填）|支援型導覽預約連結（HTTPS，選填）|Link orientamento con supporto (HTTPS, facoltativo)
+529|Tautan nyata menggantikan formulir latihan. Reservasi dan konfirmasi sesungguhnya ditangani penyedia pemesanan.|يحل الرابط الفعلي محل النموذج التجريبي. يتولى مزوّد الحجز الحجوزات والتأكيدات الفعلية.|真实链接会替代模拟预约表单。实际预约及确认由预约服务提供方处理。|真實連結會取代模擬預約表單。實際預約及確認由預約服務提供方處理。|Il link reale sostituisce il modulo di prova. Prenotazioni e conferme effettive sono gestite dal fornitore.
+530|Simpan pengaturan di perangkat ini|احفظ الإعدادات على هذا الجهاز|在此设备保存设置|在此裝置儲存設定|Salva impostazioni sul dispositivo
+531|Unduh config.js|نزّل config.js|下载 config.js|下載 config.js|Scarica config.js
+532|Untuk membagikan pengaturan ke semua peserta: unduh config.js, ganti file di folder situs, lalu bagikan folder. Pengaturan browser hanya berlaku pada perangkat ini.|لمشاركة الإعدادات مع الجميع، نزّل config.js واستبدل الملف في مجلد الموقع ثم شارك المجلد. إعدادات المتصفح تخص هذا الجهاز فقط.|如要向所有学习者共享设置：下载 config.js，替换网站文件夹内的同名文件，再分享文件夹。仅在浏览器保存的设置只影响此设备。|如要向所有學習者共享設定：下載 config.js，取代網站資料夾內的同名檔案，再分享資料夾。僅在瀏覽器儲存的設定只影響此裝置。|Per condividere le impostazioni: scarica config.js, sostituisci il file nella cartella del sito e condividila. Le impostazioni nel browser valgono solo qui.
+533|Panduan tetangga baru · Melbourne|دليلك كجار جديد · ملبورن|新邻居实用指南 · 墨尔本|新鄰居實用指南 · 墨爾本|Guida per nuovi vicini · Melbourne
+534|Tempat baru.|مكان جديد.|新的住处。|新的住處。|Un posto nuovo.
+535|Tetangga baru.|جيران جدد.|新的邻居。|新的鄰居。|Nuovi vicini.
+536|Yuk, siap menghadapi banjir.|لنستعد للفيضانات.|一起做好防洪准备。|一起做好防洪準備。|Prepariamoci alle alluvioni.
+537|Jadikan Southbank rumahmu. Beberapa langkah kecil membantumu lebih siap saat cuaca berubah.|اجعل ساوثبانك بيتك. بضع خطوات بسيطة تساعدك على الاستعداد عندما يتغير الطقس.|安心开启 Southbank 新生活。几个小步骤，让天气变化时多一份准备。|安心開啟 Southbank 新生活。幾個小步驟，讓天氣變化時多一份準備。|Sentiti a casa a Southbank. Pochi piccoli passi ti aiutano a prepararti quando cambia il tempo.
+538|Sesuai ritmemu|بالوتيرة التي تناسبك|按自己的节奏|按自己的節奏|Al tuo ritmo
+539|Untuk kehidupan apartemen|مصمّم لحياة الشقق|为公寓生活而设计|為公寓生活而設計|Per la vita in appartamento
+540|Pertama, pilih jalurmu.|أولًا، اختر مسارك.|先选择适合你的路径。|先選擇適合你的路徑。|Prima, scegli il tuo percorso.
+541|Kedua jalur berakhir dengan tur gedung yang ramah.|ينتهي المساران بجولة ودية في المبنى.|两条路径都以友好的楼宇参观结束。|兩條路徑都以友善的樓宇導覽結束。|Entrambi i percorsi portano a una visita amichevole dell’edificio.
+542|Sedikit pengetahuan lokal|قليل من المعرفة المحلية|了解一点本地情况|了解一點本地情況|Un po’ di conoscenza locale
+543|Peta, skenario singkat, dan tips praktis.|خرائط ومواقف قصيرة ونصائح عملية.|地图、简短情景和实用建议。|地圖、簡短情境和實用建議。|Mappe, brevi scenari e consigli pratici.
+544|Rencana milikmu|خطة تخصّك|属于你的计划|屬於你的計劃|Un piano tutto tuo
+545|Kebutuhanmu, orang terdekatmu, langkahmu berikutnya.|احتياجاتك وأشخاصك وخطواتك التالية.|你的必需品、联系人和下一步。|你的必需品、聯絡人和下一步。|Le tue necessità, persone e prossimi passi.
+546|Kenali tetanggamu|تعرّف على جيرانك|认识你的邻居|認識你的鄰居|Conosci i tuoi vicini
+547|Pesan tur santai di gedungmu.|احجز جولة مريحة في مبناك.|预约一次轻松的楼宇参观。|預約一次輕鬆的樓宇導覽。|Prenota un giro rilassato nell’edificio.
+548|Kamu tidak perlu mencari tahu sendirian.|لا تحتاج لاكتشاف كل شيء وحدك.|不必独自摸索。|不必獨自摸索。|Non devi capire tutto da solo.
+549|Tur gedung memberi kesempatan mencari pintu keluar, bertemu orang ramah, dan mengajukan pertanyaan kecil.|الجولة فرصة لمعرفة المخارج والتعرّف على شخص ودود وطرح الأسئلة الصغيرة.|楼宇参观让你找到出口、认识友善的邻居，也有机会问问那些小问题。|樓宇導覽讓你找到出口、認識友善的鄰居，也有機會問問那些小問題。|La visita è un’occasione per trovare le uscite, conoscere qualcuno e fare piccole domande.
+550|Kenali Southbank|تعرّف على ساوثبانك|认识 Southbank|認識 Southbank|Conosci Southbank
+551|Hal praktis, di satu tempat|أمور عملية في مكان واحد|实用信息，放在一起|實用資訊，放在一起|Cose pratiche, in un solo posto
+552|Rencanamu. Langkah berikutnya.|خطتك. خطواتك التالية.|你的计划，你的下一步。|你的計劃，你的下一步。|Il tuo piano. I prossimi passi.
+553|← Kembali ke modul|العودة إلى الوحدة →|← 返回模块|← 返回單元|← Torna al modulo
+554|Dasar panduan ini|مصادر الإرشادات|指引的依据|指引的依據|Le basi delle indicazioni
+555|Informasi yang baik itu penting.|المعلومات الجيدة مهمة.|可靠信息很重要。|可靠資訊很重要。|Le informazioni corrette contano.
+556|Modul independen ini mengacu pada panduan resmi Victoria dan sumber kesiapsiagaan berpusat pada individu. Ini bukan produk resmi VICSES.|تستند هذه الوحدة المستقلة إلى إرشادات فيكتوريا الرسمية وموارد الاستعداد المتمحور حول الشخص. ليست منتجًا رسميًا من VICSES.|本独立学习模块参考维多利亚州官方建议及以人为本的应急准备资源，并非 VICSES 官方产品。|本獨立學習單元參考維多利亞州官方建議及以人為本的應急準備資源，並非 VICSES 官方產品。|Questo modulo indipendente si basa su indicazioni ufficiali del Victoria e preparazione centrata sulla persona. Non è un prodotto ufficiale VICSES.
+557|Isi diperiksa: 15 September 2026.|تاريخ مراجعة المحتوى: 15 سبتمبر 2026.|内容核查日期：2026年9月15日。|內容核查日期：2026年9月15日。|Contenuti verificati: 15 settembre 2026.
+558|Peta banjir lokal yang disertakan ditinjau Juli 2021. Gunakan untuk belajar; periksa peringatan resmi terkini saat mengambil keputusan dalam kejadian nyata.|روجعت خريطة الفيضان المرفقة في يوليو 2021. استخدمها للتعلّم، وراجع التحذيرات الرسمية الحالية لاتخاذ قرارات أثناء الحدث.|随附本地洪水地图于2021年7月修订，仅用于学习。事件期间做决定时，请查阅当前官方预警。|隨附本地洪水地圖於2021年7月修訂，僅用於學習。事件期間做決定時，請查閱當前官方預警。|La mappa inclusa è stata rivista nel luglio 2021. Usala per imparare; durante un evento consulta le allerte ufficiali attuali.
+561|Sebelum digunakan bersama penghuni|قبل استخدامه مع السكان|向居民使用前|向居民使用前|Prima dell’uso con i residenti
+562|Penyelenggara harus memverifikasi pintu keluar, titik temu dan bantuan, dukungan, serta cakupan daya cadangan. Tambahkan tautan pemesanan nyata melalui Pengaturan fasilitator. Tinjau jalur dukungan bersama penyandang disabilitas dan pendamping di gedung.|على المنظّم التحقق من المخارج ونقاط اللقاء والمساعدة والدعم وتغطية الطاقة الاحتياطية. أضف رابط حجز فعلي في إعدادات المنظّم. راجع المسار مع سكان ذوي إعاقة ومقدّمي رعايتهم.|组织者须核实出口、集合点、协助点、支持安排及备用供电范围。在组织者设置中添加真实预约链接，并与楼内残障人士及照护者共同审阅支持型路径。|主辦人須核實出口、集合點、協助點、支援安排及備用供電範圍。在主辦人設定中新增真實預約連結，並與樓內身心障礙人士及照顧者共同審閱支援型路徑。|L’organizzatore deve verificare uscite, ritrovi, assistenza, supporto e copertura elettrica di riserva. Aggiungi un link reale nelle impostazioni. Rivedi il percorso con residenti con disabilità e chi li assiste.
+563|Modul tidak mengarang gedung, tempat berlindung, rute aksesibel, ketersediaan sesi, atau status banjir langsung.|لا تختلق الوحدة مبنى أو ملجأ أو مسارًا ميسّرًا أو توفّر جلسات أو حالة فيضان مباشرة.|本模块不会虚构楼宇、避难处、无障碍路线、活动名额或实时洪水状况。|本單元不會虛構樓宇、避難處、無障礙路線、活動名額或即時洪水狀況。|Il modulo non inventa edifici, rifugi, percorsi accessibili, disponibilità o condizioni di piena in tempo reale.

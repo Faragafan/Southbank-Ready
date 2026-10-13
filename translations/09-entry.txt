@@ -1,0 +1,10 @@
+# Source ID | Indonesian | Arabic | Simplified Chinese | Traditional Chinese | Italian
+656|Rencana yang sesuai untuk Anda|خطة تناسبك|适合你的计划|適合你的計畫|Un piano adatto a te
+657|Pengantar singkat dan interaktif tentang keselamatan banjir di Southbank, Melbourne. Jelajahi peta lokal, siapkan perlengkapan penting dan buat rencana, lalu pesan sesi santai berkeliling gedung untuk mengenal tetangga Anda.|مقدمة قصيرة وتفاعلية عن السلامة من الفيضانات في ساوث بانك، ملبورن. استكشف الخرائط المحلية وجهّز أساسياتك وضع خطة، ثم احجز جولة مريحة في المبنى للتعرّف إلى جيرانك.|这是为墨尔本 Southbank 新住户准备的简短互动防洪课程。查看本地地图、准备必需品并制定计划，然后预约轻松的楼宇导览，认识你的新邻居。|這是為墨爾本 Southbank 新住戶準備的簡短互動防洪課程。查看本地地圖、準備必需品並制定計畫，然後預約輕鬆的樓宇導覽，認識你的新鄰居。|Una breve introduzione interattiva alla sicurezza in caso di alluvione a Southbank, Melbourne. Esplora le mappe locali, prepara l’essenziale e crea un piano, poi prenota un giro informale dell’edificio per conoscere i tuoi nuovi vicini.
+658|Banjir mengubah tempat yang kita kenal.|الفيضان يغيّر الأماكن المألوفة.|洪水会改变熟悉的地方。|洪水會改變熟悉的地方。|Le alluvioni cambiano i luoghi familiari.
+659|Mulai|ابدأ|开始学习|開始學習|Inizia
+660|Tinggal di lantai tinggi.|في طابق مرتفع.|住在高楼之上。|住在高樓之上。|Un piano alto.
+661|Foto dari masa lalu. Jauhi air banjir.|صورة تاريخية. ابتعد عن مياه الفيضان.|历史照片。请远离洪水。|歷史照片。請遠離洪水。|Foto storica. Stai lontano dall’acqua alluvionale.
+662|Saya pendamping atau penyandang disabilitas|أنا مقدم رعاية أو شخص ذو إعاقة|我是照护者或残障人士|我是照顧者或身心障礙人士|Sono una persona con disabilità o un caregiver
+663|Risiko banjir tetap nyata.|خطر الفيضان قائم.|洪水风险依然存在。|洪水風險依然存在。|Un rischio reale di alluvione.
+664|Pilih jalur Anda|اختر مسارك|选择你的学习路径|選擇你的學習路徑|Scegli il tuo percorso

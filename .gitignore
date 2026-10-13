@@ -1,0 +1,7 @@
+.data/
+tmp/
+output/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+admin-key.txt

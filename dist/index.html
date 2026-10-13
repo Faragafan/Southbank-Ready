@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#183ee8">
+  <meta name="description" content="A friendly flood preparedness welcome for Southbank residents, renters, people with disability and carers.">
+  <title>Southbank Ready — Your new-neighbour field guide</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='9' fill='%23183ee8'/%3E%3Cpath d='M6 12q5-5 10 0t10 0M6 20q5-5 10 0t10 0' fill='none' stroke='%23c6f36a' stroke-width='3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="learning.css">
+  <script src="config.js" defer></script>
+  <script src="content.js" defer></script>
+  <script src="i18n-data.js" defer></script>
+  <script src="i18n.js" defer></script>
+  <script src="visuals.js" defer></script>
+  <script src="curriculum.js" defer></script>
+  <script src="learning.js" defer></script>
+  <script src="poster.js" defer></script>
+  <script src="learning-ui.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="#welcome" aria-label="Southbank Ready home"><span class="brand-mark" aria-hidden="true">≈</span><span>southbank<span class="brand-sub">READY, TOGETHER</span></span></a>
+    <nav aria-label="Main navigation"><a href="#welcome">The module</a><a href="#map">Local maps</a><a href="#plan">My plan</a></nav>
+    <div class="header-actions"><button class="text-button" data-action="accessibility" aria-label="Accessibility">Aa <span>Accessibility</span></button><button class="help-button" data-action="help">Need help?</button></div>
+  </header>
+  <div class="language-bar"><label for="language-select"><span aria-hidden="true">◎</span> <span>Language</span></label><select id="language-select" name="language" aria-label="Choose your language" dir="auto"><option value="en" lang="en" translate="no">English</option><option value="id" lang="id" translate="no">Bahasa Indonesia</option><option value="ar" lang="ar" translate="no">العربية</option><option value="zh-Hans" lang="zh-Hans" translate="no">简体中文</option><option value="zh-Hant" lang="zh-Hant" translate="no">繁體中文</option><option value="it" lang="it" translate="no">Italiano</option></select><span class="language-hint">Switch anytime. Keep your progress.</span></div>
+  <main id="main" tabindex="-1"></main>
+  <footer class="site-footer"><span>A little preparation. A more connected Southbank.</span><div><a href="#sources">Sources & guidance</a><button class="text-button" data-action="setup">Facilitator setup</button><button class="text-button" data-action="privacy">Your data</button><a href="#organiser">Organiser results</a></div></footer>
+  <dialog id="modal" aria-labelledby="modal-title"><div id="modal-body"></div><button class="modal-close" aria-label="Close dialog" data-action="close-modal">×</button></dialog>
+  <div id="announcer" class="sr-only" role="status" aria-live="polite"></div>
+  <noscript>This module needs JavaScript. Please enable JavaScript in your browser. For life-threatening emergencies call 000. For flood and storm assistance call VICSES on 132 500.</noscript>
+</body>
+</html>

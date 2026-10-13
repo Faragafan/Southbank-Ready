@@ -1,0 +1,94 @@
+290|5 bab singkat · sekitar 10 menit|5 فصول قصيرة · نحو 10 دقائق|5个短章节 · 约10分钟|5個短章節 · 約10分鐘|5 brevi capitoli · circa 10 min
+291|Saya penghuni atau penyewa|أنا ساكن أو مستأجر|我是居民或租户|我是居民或租戶|Sono residente o inquilino
+292|Kunci baru, lingkungan baru. Kenali risiko setempat, siapkan kebutuhan pokok, dan buat rencana untuk kehidupan apartemen.|مفاتيح جديدة وحي جديد. تعرّف على المخاطر المحلية وجهّز الأساسيات وضع خطة تناسب السكن في شقة.|新钥匙、新社区。了解本地风险、准备必需品，并制定适合公寓生活的计划。|新鑰匙、新社區。了解本地風險、準備必需品，並制定適合公寓生活的計劃。|Nuove chiavi, nuovo quartiere. Conosci i rischi locali, prepara l’essenziale e crea un piano adatto alla vita in appartamento.
+293|Lanjutkan jalur ini|تابع هذا المسار|继续此路径|繼續此路徑|Continua questo percorso
+295|Mulai ulang jalur penghuni dan penyewa|أعد بدء مسار السكان والمستأجرين|重新开始居民与租户路径|重新開始居民與租戶路徑|Ricomincia il percorso residenti e inquilini
+296|Mulai lagi ↻|ابدأ مجددًا ↻|重新开始 ↻|重新開始 ↻|Ricomincia ↻
+297|Mau coba lagi?|هل تود المحاولة مجددًا؟|想再做一次？|想再做一次？|Vuoi riprovare?
+298|Mulai jalur ini dengan jawaban aktivitas baru. Catatan rencana pribadimu tetap tersedia.|ابدأ المسار بإجابات أنشطة جديدة. تبقى ملاحظات خطتك الشخصية متاحة.|重新开始此路径，清空活动答案，保留个人计划笔记。|重新開始此路徑，清空活動答案，保留個人計劃筆記。|Riparti con risposte nuove alle attività. Le note del piano personale restano disponibili.
+299|Ulangi jalur ini ↻|أعد هذا المسار ↻|再做一次此路径 ↻|再做一次此路徑 ↻|Ripeti questo percorso ↻
+301|Sedikit lebih siap.|أكثر استعدادًا الآن.|又多了一分准备。|又多了一分準備。|Un po’ più pronti.
+302|Kini, kenali tetanggamu.|والآن، تعرّف على جيرانك.|现在，来认识邻居吧。|現在，來認識鄰居吧。|Ora conosci i tuoi vicini.
+303|Kamu selesai belajar online. Berikutnya tur gedung santai untuk menghubungkan ide dengan tempat dan orang yang kamu kenal.|أنهيت التعلّم الإلكتروني. الخطوة التالية جولة مريحة في المبنى لتحويل الأفكار إلى أماكن وأشخاص تعرفهم.|你已完成线上学习。接下来参加轻松的楼宇参观，把学到的内容与真实地点和邻居联系起来。|你已完成線上學習。接下來參加輕鬆的樓宇導覽，把學到的內容與真實地點和鄰居聯繫起來。|Hai finito l’apprendimento online. Ora una visita rilassata trasforma le idee in luoghi e persone che conosci.
+304|Yang kamu bawa pulang|ما تأخذه معك|你的收获|你的收穫|Cosa porti con te
+305|Pemahaman tentang risiko banjir Southbank.|فهم مخاطر الفيضانات في ساوثبانك.|了解 Southbank 的洪水风险。|了解 Southbank 的洪水風險。|Una conoscenza del rischio alluvioni a Southbank.
+306|Perlengkapan darurat dan pilihan lebih aman untuk tinggal di apartemen.|حقيبة طوارئ وخيارات أكثر أمانًا للسكن في شقة.|应急包准备及更安全的公寓生活选择。|應急包準備及更安全的公寓生活選擇。|Un kit d’emergenza e scelte più sicure in appartamento.
+307|Rencana menghadapi peringatan, mencari bantuan, dan saling mengabari.|خطة للتحذيرات والمساعدة والاطمئنان المتبادل.|接收预警、求助及报平安的计划。|接收預警、求助及報平安的計劃。|Un piano per allerte, aiuto e contatti.
+308|Bawa rencana saya|خذ خطتي|带上我的计划|帶上我的計劃|Porta il mio piano
+309|Tambah catatan|أضف ملاحظة|添加笔记|新增筆記|Aggiungi una nota
+310|BERIKUTNYA · TATAP MUKA|التالي · لقاء حضوري|下一步 · 线下见面|下一步 · 線下見面|PROSSIMO PASSO · DI PERSONA
+311|Tur gedung untuk tetangga baru|جولة المبنى للجيران الجدد|新邻居楼宇参观|新鄰居樓宇導覽|La visita per i nuovi vicini
+312|Cari pintu keluar, temui tim gedung, dan kenali tetangga. Ajak teman serumah, bawa pertanyaan, atau datang sendiri.|اعرف المخارج، والتقِ بفريق المبنى وببعض الجيران. اصطحب رفيق السكن أو أسئلتك، أو تعال بمفردك.|找出口、认识楼宇团队，也认识几位邻居。可以带室友、带问题，或自己来。|找出口、認識樓宇團隊，也認識幾位鄰居。可以帶室友、帶問題，或自己來。|Trova le uscite, incontra il personale e conosci qualche vicino. Porta un coinquilino, le tue domande o vieni da solo.
+314|Ramah, dalam kelompok kecil|أجواء ودية ومجموعة صغيرة|友好的小组形式|友善的小組形式|Gruppo piccolo e amichevole
+315|Pilih tur gedung saya|اختر جولتي في المبنى|选择楼宇参观活动|選擇樓宇導覽活動|Scegli la mia visita
+316|Penyelesaian belajar tersimpan di perangkat ini. Pastikan pengaturan gedung nyata saat tur; modul ini bukan sertifikasi evakuasi.|يُحفظ إكمال التعلّم على هذا الجهاز. تأكد من الترتيبات الفعلية خلال الجولة؛ هذه الوحدة ليست شهادة إخلاء.|完成记录保存在此设备上。参观时请确认楼宇的实际安排；本模块不是疏散认证。|完成紀錄儲存在此裝置上。導覽時請確認樓宇的實際安排；本單元不是疏散認證。|Il completamento è salvato su questo dispositivo. Conferma le disposizioni reali durante la visita; il modulo non è una certificazione di evacuazione.
+317|← Jelajahi jalur lain|استكشف المسار الآخر →|← 探索另一条路径|← 探索另一條路徑|← Esplora l’altro percorso
+318|Belajar sedikit dulu.|قليل من التعلّم أولًا.|先完成一点学习。|先完成一點學習。|Prima, un po’ di apprendimento.
+319|Selesaikan jalur belajar sebelum memilih tur gedung. Kamu bisa istirahat dan kembali kapan saja.|أكمل مسار التعلّم قبل اختيار الجولة. يمكنك أخذ استراحات والعودة متى شئت.|完成学习路径后再选择楼宇参观。可以随时休息，之后回来继续。|完成學習路徑後再選擇樓宇導覽。可以隨時休息，之後回來繼續。|Completa il percorso prima di scegliere la visita. Puoi fare pause e tornare quando vuoi.
+320|Lanjutkan jalur saya|تابع مساري|继续我的路径|繼續我的路徑|Continua il mio percorso
+321|← Ringkasan belajar saya|ملخّص تعلّمي →|← 我的学习总结|← 我的學習總結|← Riepilogo del mio percorso
+322|Langkah berikutnya: kenali orang di sekitarmu|الخطوة التالية: وجه مألوف|下一步，认识身边的人|下一步，認識身邊的人|Il prossimo passo è un volto conosciuto
+323|Yuk, bertemu di bawah.|لنلتقِ في الأسفل.|我们楼下见。|我們樓下見。|Incontriamoci al piano terra.
+324|Tur santai di gedungmu. Kenali lingkungan, ajukan pertanyaan, dan sapa tetangga baru.|جولة مريحة في مبناك لتتعرّف على المكان، وتسأل، وتحيّي جيرانك الجدد.|轻松逛逛你的楼宇，熟悉环境、提出问题，并与新邻居打个招呼。|輕鬆逛逛你的樓宇，熟悉環境、提出問題，並與新鄰居打個招呼。|Un giro rilassato nell’edificio. Orientati, fai domande e saluta i nuovi vicini.
+325|Coba alur pemesanan|جرّب خطوات الحجز|试用预约流程|試用預約流程|Prova la prenotazione
+326|LATIHAN PEMESANAN · BUKAN RESERVASI NYATA|حجز تجريبي · لا يوجد حجز فعلي|模拟预约 · 不会实际预订|模擬預約 · 不會實際預訂|PROVA DI PRENOTAZIONE · NESSUNA RISERVA REALE
+327|Belum ada sesi gedung yang dihubungkan. Ini contoh waktu untuk mencoba cara pemesanan.|لم تُربط جلسات المبنى بعد. هذه أوقات نموذجية لاستكشاف طريقة الحجز.|尚未连接任何楼宇活动。以下为示例时间，用于体验预约流程。|尚未連接任何樓宇活動。以下為示例時間，用於體驗預約流程。|Non sono ancora collegate sessioni dell’edificio. Questi orari sono esempi per provare il flusso.
+328|1. Pilih turmu|1. اختر جولتك|1. 选择参观形式|1. 選擇導覽形式|1. Scegli la visita
+329|Tur tetangga baru|جولة الجيران الجدد|新邻居参观|新鄰居導覽|Visita per nuovi vicini
+330|Sekitar 30 menit · hal penting di gedung|نحو 30 دقيقة · أساسيات المبنى المشتركة|约30分钟 · 楼宇基本信息|約30分鐘 · 樓宇基本資訊|Circa 30 min · informazioni comuni sull’edificio
+331|Orientasi dengan dukungan|جولة تعريفية مع دعم|支持型导览|支援型導覽|Orientamento con supporto
+332|Sekitar 45 menit · rencanakan akses, ajak pendamping|نحو 45 دقيقة · تخطيط الوصول وإحضار مقدّم رعاية|约45分钟 · 规划无障碍安排，可带照护者|約45分鐘 · 規劃無障礙安排，可帶照顧者|Circa 45 min · pianifica l’accesso, porta chi ti assiste
+333|2. Pilih waktu contoh|2. اختر وقتًا تجريبيًا|2. 选择示例时间|2. 選擇示例時間|2. Scegli un orario di esempio
+334|Semua waktu contoh mengikuti waktu Melbourne (Australia/Melbourne).|جميع الأوقات التجريبية بتوقيت ملبورن (Australia/Melbourne).|所有示例时间均为墨尔本时间（Australia/Melbourne）。|所有示例時間均為墨爾本時間（Australia/Melbourne）。|Tutti gli orari di esempio sono di Melbourne (Australia/Melbourne).
+336|Sesi contoh|جلسة تجريبية|示例活动|示例活動|Sessione di esempio
+339|Apa yang membuat tur ini sesuai untukmu?|ما الذي يجعل الجولة مناسبة لك؟|怎样的安排能让参观适合你？|怎樣的安排能讓導覽適合你？|Cosa renderebbe la visita adatta a te?
+340|(opsional)|(اختياري)|（选填）|（選填）|(facoltativo)
+341|Tidak ada preferensi untuk latihan ini|لا تفضيل في هذه التجربة|本次模拟无偏好|本次模擬無偏好|Nessuna preferenza per questa prova
+342|Membawa pendamping atau orang pendukung|إحضار مقدّم رعاية أو شخص داعم|带照护者或支持人员同行|帶照顧者或支援人員同行|Porto chi mi assiste o una persona di supporto
+343|Diskusikan rute tanpa tangga|مناقشة مسار خالٍ من الدرج|讨论无台阶路线|討論無台階路線|Parlare di un percorso senza gradini
+344|Tempo lebih santai atau kelompok lebih kecil|وتيرة أهدأ أو مجموعة أصغر|更安静的节奏或更小的组别|更安靜的節奏或更小的組別|Ritmo più tranquillo o gruppo più piccolo
+345|Diskusikan akses komunikasi|مناقشة احتياجات التواصل|讨论沟通无障碍需求|討論溝通無障礙需求|Parlare di accessibilità della comunicazione
+346|Diskusikan preferensi secara pribadi dengan penyelenggara|مناقشة التفضيلات بخصوصية مع المنظّم|私下与组织者讨论偏好|私下與主辦人討論偏好|Discutere le preferenze in privato con l’organizzatore
+347|Tidak perlu nama, email, atau informasi kesehatan untuk latihan pemesanan.|لا تحتاج لإدخال اسم أو بريد إلكتروني أو تفاصيل صحية للحجز التجريبي.|模拟预约无需填写姓名、邮箱或健康信息。|模擬預約無需填寫姓名、電郵或健康資訊。|Per la prova non servono nome, email o dati sanitari.
+348|Saya paham ini hanya menyimpan pilihan latihan di perangkat. Tidak menghubungi penyelenggara atau memesan tempat.|أفهم أن هذا يحفظ اختيارًا تجريبيًا على الجهاز فقط، ولا يتواصل مع منظّم أو يحجز مكانًا.|我了解这只会在此设备上保存模拟选择，不会联系组织者或预留名额。|我了解這只會在此裝置上儲存模擬選擇，不會聯絡主辦人或預留名額。|Capisco che si salva solo una scelta di prova sul dispositivo. Non contatta l’organizzatore né riserva un posto.
+349|Simpan pilihan latihan|احفظ الاختيار التجريبي|保存模拟选择|儲存模擬選擇|Salva la scelta di prova
+350|SEKILAS TURMU|لمحة عن جولتك|参观活动一览|導覽活動一覽|LA VISITA IN BREVE
+351|Kenali tempatnya.|اعرف الأماكن.|知道去哪里。|知道去哪裏。|Sapere dove andare.
+352|Kenali orangnya.|وتعرّف على الأشخاص.|也知道找谁。|也知道找誰。|Conoscere chi incontrare.
+353|Saling menyapa|قل مرحبًا|打个招呼|打個招呼|Salutiamoci
+354|Temui penyelenggara dan beberapa tetangga. Perkenalan tidak wajib.|التقِ بالمنظّم وبعض الجيران. التعريف بنفسك اختياري.|认识组织者和几位邻居。自我介绍自愿参加。|認識主辦人和幾位鄰居。自我介紹自願參加。|Incontra l’organizzatore e qualche vicino. Presentarsi è facoltativo.
+355|Lihat sekeliling|ألقِ نظرة حولك|逛一逛|逛一逛|Guardati intorno
+356|Cari pintu keluar, titik informasi, dan tempat meminta bantuan.|حدّد المخارج ونقاط المعلومات وأماكن طلب المساعدة.|找到出口、信息点及可以求助的位置。|找到出口、資訊點及可以求助的位置。|Individua uscite, punti informativi e dove chiedere aiuto.
+357|Bahas “bagaimana jika”|ناقش «ماذا لو»|讨论“如果发生……”|討論「如果發生……」|Parliamo di «cosa succede se»
+358|Cari tahu tindakan gedung jika air banjir masuk atau listrik padam.|اعرف ما يفعله المبنى عند وصول مياه الفيضان أو انقطاع الكهرباء.|了解楼宇在洪水来临或停电时会如何应对。|了解樓宇在洪水來臨或停電時會如何應對。|Scopri cosa fa il tuo edificio se arriva l’acqua o manca la corrente.
+359|Pulang dengan rencana|غادر ومعك خطة|带着计划离开|帶着計劃離開|Vai via con un piano
+360|Tinjau pertanyaan dan sepakati tindak lanjut dengan tim gedung.|راجع أسئلتك واتفق على أي متابعة مع فريق المبنى.|核对你的问题，并与楼宇团队约定后续安排。|核對你的問題，並與樓宇團隊約定後續安排。|Rivedi le domande e concorda eventuali passi successivi con il personale.
+361|Ini usulan format sesi. Penyelenggara memastikan lokasi, ketersediaan, aksesibilitas, dan pengaturan.|هذا شكل مقترح للجلسة. يؤكد المنظّم المكان والتوفّر وإمكانية الوصول والترتيبات.|这是建议的活动形式。地点、名额、无障碍条件及安排由组织者确认。|這是建議的活動形式。地點、名額、無障礙條件及安排由主辦人確認。|È un formato proposto. L’organizzatore conferma luogo, disponibilità, accessibilità e disposizioni.
+362|GEDUNGMU|مبناك|你的楼宇|你的樓宇|IL TUO EDIFICIO
+363|Bawa pertanyaan ini saat tur.|اصطحب هذه الأسئلة إلى الجولة.|把这些问题带去参观。|把這些問題帶去導覽。|Porta queste domande alla visita.
+364|Gedung belum ditambahkan. Pintu keluar, titik bantuan, dan fasilitas berikut perlu dipastikan tim gedung.|لم يُضَف مبنى بعد. على فريق المبنى تأكيد المخارج ونقاط المساعدة والمرافق أدناه.|尚未添加楼宇。以下出口、协助点和设施需要由楼宇团队确认。|尚未新增樓宇。以下出口、協助點和設施需要由樓宇團隊確認。|Nessun edificio è ancora configurato. Uscite, punti di assistenza e strutture qui sotto vanno confermati dal personale.
+365|Kontak gedung|جهة اتصال المبنى|楼宇联系人|樓宇聯絡人|Contatto dell’edificio
+366|Pastikan dengan tim gedung|تأكد مع فريق المبنى|请向楼宇团队确认|請向樓宇團隊確認|Da confermare con il personale
+367|Titik temu tur|نقطة لقاء الجولة|参观集合点|導覽集合點|Ritrovo della visita
+368|Pintu keluar aksesibel / rute cadangan|مخرج ميسّر / مسار بديل|无障碍出口／备用路线|無障礙出口／備用路線|Uscita accessibile / percorso alternativo
+369|Prosedur banjir & evakuasi|إجراءات الفيضان والإخلاء|防洪与疏散程序|防洪與疏散程序|Procedura per alluvione ed evacuazione
+370|Fasilitas akses & daya cadangan|مرافق الوصول والطاقة الاحتياطية|无障碍设施与备用电源|無障礙設施與備用電源|Accessibilità e corrente di riserva
+371|Titik temu tur adalah untuk orientasi. Belum tentu merupakan tujuan evakuasi banjir.|نقطة لقاء الجولة للتعريف بالمبنى، وليست تلقائيًا وجهة إخلاء في الفيضان.|参观集合点用于熟悉环境，不一定是洪水疏散目的地。|導覽集合點用於熟悉環境，不一定是洪水疏散目的地。|Il ritrovo serve all’orientamento. Non è automaticamente una destinazione di evacuazione per alluvioni.
+372|HANYA LATIHAN|للتجربة فقط|仅供模拟|僅供模擬|SOLO PROVA
+373|Pilihan latihanmu tersimpan.|حُفظ اختيارك التجريبي.|模拟选择已保存。|模擬選擇已儲存。|La scelta di prova è salvata.
+374|Belum ada sesi nyata yang dipesan.|لم تُحجز جلسة فعلية.|尚未预约真实活动。|尚未預約真實活動。|Non è stata prenotata una sessione reale.
+375|Tidak ada yang dikirim ke penyelenggara gedung.|لم يُرسل شيء إلى منظّم المبنى.|没有向楼宇组织者发送任何信息。|沒有向樓宇主辦人傳送任何資訊。|Nulla è stato inviato all’organizzatore.
+376|Tur contoh|جولة تجريبية|示例参观|示例導覽|Visita di esempio
+377|Waktu contoh|وقت تجريبي|示例时间|示例時間|Orario di esempio
+379|Waktu Melbourne|توقيت ملبورن|墨尔本时间|墨爾本時間|Ora di Melbourne
+380|Titik temu|نقطة اللقاء|集合点|集合點|Punto di ritrovo
+381|Akan dikonfirmasi penyelenggara|يؤكده المنظّم لاحقًا|待组织者确认|待主辦人確認|Da confermare dall’organizzatore
+382|Langkah berikutnya|الخطوة التالية|下一步|下一步|Prossimo passo
+383|Minta tautan pemesanan nyata dari penyelenggara.|اطلب رابط الحجز الفعلي من المنظّم.|向组织者索取真实预约链接。|向主辦人索取真實預約連結。|Chiedi all’organizzatore il link di prenotazione reale.
+384|Unduh file kalender latihan|نزّل ملف تقويم تجريبي|下载模拟日历文件|下載模擬行事曆檔案|Scarica il calendario di prova
+385|Ubah pilihan|غيّر الاختيار|更改选择|更改選擇|Cambia scelta
+386|Acara kalender diberi label jelas “HANYA LATIHAN” dengan status sementara.|حدث التقويم موسوم بوضوح «للتجربة فقط» وحالته مؤقتة.|日历事件明确标注为“仅供模拟”，状态为暂定。|行事曆事件明確標註為「僅供模擬」，狀態為暫定。|L’evento è chiaramente segnato «SOLO PROVA» e provvisorio.
+387|Bawa rencana saya saat tur →|خذ خطتي إلى الجولة ←|带上计划去参观 →|帶上計劃去導覽 →|Porta il piano alla visita →
+388|Pesan melalui penyelenggara|احجز مع المنظّم|通过组织者预约|透過主辦人預約|Prenota con l’organizzatore
+389|Halaman penyelenggara memuat sesi dan ketersediaan terkini. Selesaikan pemesanan di sana untuk menerima konfirmasi.|تعرض صفحة المنظّم الجلسات والتوفّر الحالي. أكمل حجزك هناك للحصول على التأكيد.|组织者的预约页面提供当前活动及名额信息，请在那里完成预约并获取确认。|主辦人的預約頁面提供當前活動及名額資訊，請在那裏完成預約並獲取確認。|La pagina dell’organizzatore mostra sessioni e disponibilità attuali. Completa lì la prenotazione per ricevere conferma.
+390|Buka pemesanan online|افتح الحجز الإلكتروني|打开在线预约|開啟線上預約|Apri la prenotazione online

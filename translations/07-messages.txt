@@ -1,0 +1,69 @@
+564|Bahasa|اللغة|语言|語言|Lingua
+565|Pilih bahasamu|اختر لغتك|选择语言|選擇語言|Scegli la lingua
+566|Ganti kapan saja. Kemajuan tetap tersimpan.|غيّر اللغة متى شئت. يبقى تقدّمك محفوظًا.|随时切换，保留进度。|隨時切換，保留進度。|Cambia quando vuoi. Conserva i progressi.
+567|Bahasa diubah. Jawaban dan catatanmu tetap tersimpan.|تغيّرت اللغة. حُفظت إجاباتك وملاحظاتك.|语言已切换，答案和笔记已保留。|語言已切換，答案和筆記已保留。|Lingua cambiata. Risposte e note sono conservate.
+568|Peta dan PDF asli berbahasa Inggris. Penjelasan di bawah tersedia dalam bahasa pilihanmu. Layanan eksternal mungkin memiliki pengaturan bahasa sendiri.|الخريطة وملف PDF الأصليان بالإنجليزية. الشرح أدناه متاح بلغتك المختارة. قد تستخدم الخدمات الخارجية إعدادات لغة خاصة بها.|原始地图和 PDF 为英文，下方说明提供所选语言版本。外部服务可能使用自己的语言设置。|原始地圖和 PDF 為英文，下方說明提供所選語言版本。外部服務可能使用自己的語言設定。|Mappa e PDF originali sono in inglese. La spiegazione qui sotto è nella lingua scelta. I servizi esterni possono avere proprie impostazioni linguistiche.
+569|Rincian dari penyelenggara · diperiksa|تفاصيل قدّمها المنظّم · روجعت في|资料由组织者提供 · 核实于|資料由主辦人提供 · 核實於|Dettagli forniti dall’organizzatore · verificati il
+570|Konfirmasi lagi jika kondisi atau pengaturan berubah.|أعد التأكد إذا تغيّرت الظروف أو الترتيبات.|情况或安排有变时，请重新确认。|情況或安排有變時，請重新確認。|Riconferma se cambiano condizioni o disposizioni.
+571|Membuka|يفتح|将打开|將開啟|Apre
+572|Rencana dan catatanmu tidak dikirim. Modul tidak dapat memastikan apakah pemesanan eksternal selesai.|لا تُرسل خطتك أو ملاحظاتك. لا تستطيع الوحدة تأكيد إتمام حجز خارجي.|不会发送你的计划和笔记。本模块无法确认外部预约是否已完成。|不會傳送你的計劃和筆記。本單元無法確認外部預約是否已完成。|Piano e note non vengono inviati. Il modulo non può confermare il completamento di prenotazioni esterne.
+573|{done} dari {total} bab selesai|اكتمل {done} من {total} فصول|已完成 {done}／{total} 章|已完成 {done}／{total} 章|{done} capitoli completati su {total}
+574|{count} bab selesai|اكتمل {count} فصول|已完成 {count} 章|已完成 {count} 章|{count} capitoli completati
+575|BAB {number}|الفصل {number}|第 {number} 章|第 {number} 章|CAPITOLO {number}
+576|Sekitar {minutes} menit|نحو {minutes} دقيقة|约 {minutes} 分钟|約 {minutes} 分鐘|Circa {minutes} min
+577|Sekitar {minutes} menit|نحو {minutes} دقيقة|约 {minutes} 分钟|約 {minutes} 分鐘|Circa {minutes} minuti
+578|Lihat ringkasan belajar|اعرض ملخّص التعلّم|查看学习总结|查看學習總結|Vedi il riepilogo
+579|Jelajahi jalur ini|استكشف هذا المسار|探索此路径|探索此路徑|Esplora questo percorso
+580|Mari mulai|لنبدأ|开始吧|開始吧|Cominciamo
+581|Lanjut dari terakhir kali, atau pilih “Mulai lagi” untuk mengulang.|تابع من حيث توقفت، أو اختر «ابدأ مجددًا» لمحاولة جديدة.|从上次位置继续，或选择“重新开始”再做一次。|從上次位置繼續，或選擇「重新開始」再做一次。|Riprendi da dove eri o scegli «Ricomincia» per una nuova prova.
+582|Mulai baru. Jawaban dan kemajuan jalur ini telah direset. Catatan rencana pribadimu masih tersedia.|بداية جديدة. أُعيد ضبط إجابات هذا المسار وتقدّمه. ملاحظات خطتك الشخصية ما زالت متاحة.|已重新开始。此路径的答案和进度已重置，个人计划笔记仍保留。|已重新開始。此路徑的答案和進度已重設，個人計劃筆記仍保留。|Nuovo inizio. Risposte e progressi del percorso sono azzerati. Le note personali restano disponibili.
+583|Penyimpanan browser tidak tersedia. Kamu tetap bisa belajar dan mengunduh rencana, tetapi kemajuan mungkin tidak tersimpan.|تخزين المتصفح غير متاح. يمكنك استخدام الوحدة وتنزيل خطتك، لكن قد لا يُحفظ التقدّم.|浏览器存储不可用。仍可学习及下载计划，但进度可能无法保存。|瀏覽器儲存空間不可用。仍可學習及下載計劃，但進度可能無法儲存。|L’archiviazione del browser non è disponibile. Puoi usare il modulo e scaricare il piano, ma i progressi potrebbero non salvarsi.
+584|Pesan tur gedungmu|احجز جولة مبناك|预约楼宇参观|預約樓宇導覽|Prenota la visita
+585|Belajar selesai|اكتمل التعلّم|学习完成|學習完成|Apprendimento completato
+586|Panduan tetangga barumu|دليلك كجار جديد|新邻居实用指南|新鄰居實用指南|La tua guida per nuovi vicini
+587|Ketujuh kebutuhan pokok sudah ada. Jaga tas tetap mudah dibawa dan periksa secara rutin.|جميع الأساسيات السبعة في حقيبتك. أبقِها سهلة الحمل وراجعها بانتظام.|七项必需品已齐全。保持便于携带，并定期检查。|七項必需品已齊全。保持便於攜帶，並定期檢查。|Tutti e sette gli essenziali sono nel kit. Mantienilo trasportabile e controllalo regolarmente.
+588|Perlengkapan dasar siap.|حقيبتك الأساسية جاهزة.|基本应急包已准备好。|基本應急包已準備好。|Il kit di base è pronto.
+589|Tambahkan kebutuhan pribadi, periksa kedaluwarsa, dan simpan dalam jangkauan.|أضف احتياجاتك الشخصية وتحقق من الصلاحية وأبقِها في متناولك.|加上个人必需品、检查有效期，并放在易取处。|加上個人必需品、檢查有效期，並放在易取處。|Aggiungi necessità personali, controlla scadenze e tienilo a portata.
+590|Tambahkan kebutuhan ini:|أضف هذه الأساسيات:|请添加这些必需品：|請新增這些必需品：|Aggiungi questi essenziali:
+591|Keluarkan barang ini:|أخرج هذه الأغراض:|请移除这些物品：|請移除這些物品：|Togli questi oggetti:
+592|Coba lagi. Baca tips di atas.|حاول مجددًا. راجع النصائح أعلاه.|再试一次，回看上方提示。|再試一次，回看上方提示。|Riprova. Rileggi i consigli sopra.
+593|Menampilkan {view}|يُعرض {view}|正在显示：{view}|正在顯示：{view}|Visualizzazione: {view}
+594|Dipilih: {topic}|تم اختيار: {topic}|已选择：{topic}|已選擇：{topic}|Selezionato: {topic}
+595|Dihapus: {topic}|أُزيل: {topic}|已移除：{topic}|已移除：{topic}|Rimosso: {topic}
+596|Unduhan rencanamu siap.|تنزيل خطتك جاهز.|计划下载已准备好。|計劃下載已準備好。|Il piano è pronto da scaricare.
+597|Pengaturan gedung diunduh.|نُزّلت إعدادات المبنى.|楼宇设置已下载。|樓宇設定已下載。|Impostazioni dell’edificio scaricate.
+598|Pengaturan gedung tersimpan di perangkat ini.|حُفظت إعدادات المبنى على هذا الجهاز.|楼宇设置已保存到此设备。|樓宇設定已儲存到此裝置。|Impostazioni salvate su questo dispositivo.
+599|Gunakan tautan pemesanan HTTPS lengkap.|استخدم رابط حجز HTTPS كاملًا.|请输入完整 HTTPS 预约链接。|請輸入完整 HTTPS 預約連結。|Usa un link HTTPS completo per la prenotazione.
+600|Pengaturan gagal disimpan. Gunakan Unduh config.js.|تعذّر حفظ الإعدادات. استخدم تنزيل config.js.|无法保存设置，请改用“下载 config.js”。|無法儲存設定，請改用「下載 config.js」。|Impossibile salvare. Usa «Scarica config.js».
+601|Pilih waktu contoh dan akui bahwa ini latihan pemesanan.|اختر وقتًا تجريبيًا وأقرّ بأن الحجز للتجربة.|请选择示例时间，并确认这是模拟预约。|請選擇示例時間，並確認這是模擬預約。|Scegli un orario e conferma che è una prova.
+602|Pilihan latihan tersimpan. Belum ada sesi nyata dipesan.|حُفظ الاختيار التجريبي. لم تُحجز جلسة فعلية.|模拟选择已保存，未预约真实活动。|模擬選擇已儲存，未預約真實活動。|Scelta di prova salvata. Nessuna sessione reale prenotata.
+603|Hapus data belajar di perangkat ini?|هل تريد مسح بيانات التعلّم على هذا الجهاز؟|清除此设备的学习数据？|清除此裝置的學習資料？|Cancellare i dati su questo dispositivo?
+604|Ini menghapus kemajuan, isi tas, catatan pribadi, dan latihan pemesanan. Unduh rencana dahulu jika ingin menyimpannya. Pengaturan gedung tetap ada.|يحذف هذا التقدّم واختيارات الحقيبة والملاحظات والحجز التجريبي. نزّل خطتك أولًا إن أردت الاحتفاظ بها. تبقى إعدادات المبنى.|这会删除已保存进度、应急包选择、个人笔记和模拟预约。需要保留计划的话，请先下载。楼宇设置会保留。|這會刪除已儲存進度、應急包選擇、個人筆記和模擬預約。需要保留計劃的話，請先下載。樓宇設定會保留。|Elimina progressi, scelte del kit, note e prova di prenotazione. Scarica prima il piano se vuoi conservarlo. Le impostazioni dell’edificio restano.
+605|Simpan data saya|احتفظ ببياناتي|保留我的数据|保留我的資料|Conserva i miei dati
+606|Hapus data belajar saya|امسح بيانات تعلّمي|清除我的学习数据|清除我的學習資料|Cancella i miei dati di apprendimento
+607|Data belajarmu telah dihapus.|مُسحت بيانات تعلّمك.|学习数据已清除。|學習資料已清除。|Dati di apprendimento cancellati.
+608|Catatan rencana akan tersimpan di browser ini.|ستُحفظ ملاحظات الخطة في هذا المتصفح.|计划笔记将保存在此浏览器。|計劃筆記將儲存在此瀏覽器。|Le note saranno salvate in questo browser.
+609|Catatan hanya ada di halaman ini; salinan tersimpan telah dihapus.|تُحفظ الملاحظات في هذه الصفحة فقط؛ أُزيلت النسخة المخزّنة.|笔记仅留在此页面，已保存副本已删除。|筆記僅留在此頁面，已儲存副本已刪除。|Le note restano solo nella pagina; la copia salvata è stata rimossa.
+610|Jalan Southbank di OpenStreetMap — bukan rute banjir|شوارع ساوثبانك في OpenStreetMap — وليست مسارات فيضان|OpenStreetMap 的 Southbank 街道图，不是洪水路线图|OpenStreetMap 的 Southbank 街道圖，不是洪水路線圖|Strade di Southbank su OpenStreetMap — non percorsi per alluvioni
+611|Jika peta gagal dimuat, gunakan “Buka peta jalan lebih besar” di bawah. Jalan hanya ditampilkan untuk orientasi.|إذا لم تُحمّل الخريطة، استخدم «افتح خريطة شوارع أكبر» أدناه. الشوارع للاستدلال على المكان فقط.|若地图无法加载，请使用下方“打开更大的街道地图”。街道仅用于熟悉方位。|若地圖無法載入，請使用下方「開啟更大的街道地圖」。街道僅用於熟悉方位。|Se la mappa non si carica, usa «Apri una mappa stradale più grande» sotto. Le strade servono solo a orientarsi.
+612|SOUTHBANK READY — RENCANA PRIBADI SAYA|SOUTHBANK READY — خطتي الشخصية|SOUTHBANK READY — 我的个人计划|SOUTHBANK READY — 我的個人計劃|SOUTHBANK READY — IL MIO PIANO PERSONALE
+613|Disiapkan: {date}|أُعدّت في: {date}|准备日期：{date}|準備日期：{date}|Preparato il: {date}
+614|Untuk dibahas / dilengkapi|للمناقشة / الاستكمال|待讨论／填写|待討論／填寫|Da discutere / completare
+615|KONTAK DARURAT|جهات اتصال الطوارئ|紧急联系人|緊急聯絡人|CONTATTI D’EMERGENZA
+616|Peringatan terkini|التحذيرات الحالية|当前预警|當前預警|Allerte attuali
+617|106 untuk panggilan darurat TTY, bukan SMS.|106 لمكالمات الطوارئ عبر TTY، وليس للرسائل النصية.|106用于 TTY 紧急通话，不用于短信。|106用於 TTY 緊急通話，不用於短訊。|106 serve per chiamate d’emergenza TTY, non SMS.
+618|DAFTAR PERLENGKAPAN SAYA|قائمة حقيبتي|我的应急用品清单|我的應急用品清單|LA LISTA DEL MIO KIT
+619|Perlengkapan dukungan pribadi, alat cadangan, dan kebutuhan hewan pendamping jika perlu.|لوازم الدعم الشخصي وبدائل المعدات واحتياجات حيوان المساعدة عند الحاجة.|按需准备个人支持用品、备用设备和辅助动物必需品。|按需準備個人支援用品、備用設備和輔助動物必需品。|Materiale di supporto personale, riserve delle attrezzature e necessità dell’animale di assistenza, se servono.
+620|PENGINGAT UTAMA|تذكيرات أساسية|重要提醒|重要提醒|PROMEMORIA PRINCIPALI
+621|Jangan masuk ke air banjir atau ruang bawah tanah yang terendam untuk mengambil barang.|لا تدخل مياه الفيضان أو قبوًا تغمره المياه لاستعادة الممتلكات.|绝不进入洪水或正在被淹的地下室取物。|絕不進入洪水或正在被淹的地下室取物。|Non entrare nell’acqua di piena o in seminterrati che si allagano per recuperare oggetti.
+622|Ikuti peringatan resmi terkini. Pergi lebih awal saat disarankan dan aman.|اتبع التحذيرات الرسمية الحالية. غادر مبكرًا عندما يُنصح بذلك ويكون آمنًا.|遵循当前官方预警，在获建议且安全时提早离开。|遵循當前官方預警，在獲建議且安全時提早離開。|Segui le allerte ufficiali attuali. Parti presto quando consigliato e sicuro.
+623|Pastikan pintu keluar gedung dan bantuan pribadi sebelumnya.|أكّد مخارج المبنى وترتيبات المساعدة الشخصية مسبقًا.|提前确认楼宇出口和个人协助安排。|提前確認樓宇出口和個人協助安排。|Conferma in anticipo uscite e assistenza personale.
+624|Jangan mengandalkan lift saat banjir atau listrik padam.|لا تعتمد على المصاعد أثناء الفيضان أو انقطاع الكهرباء.|洪水或停电时不要依赖电梯。|洪水或停電時不要依賴升降機。|Non contare sugli ascensori durante alluvioni o blackout.
+625|Siapkan daya cadangan kompatibel dan rencana pindah bersama penyedia layananmu.|جهّز طاقة احتياطية متوافقة وخطة انتقال مع مقدّمي الخدمة.|与服务提供方准备兼容备用电源和转移计划。|與服務提供方準備相容備用電源和轉移計劃。|Prepara corrente di riserva compatibile e piano di trasferimento con i fornitori.
+626|Peta perencanaan atau titik temu orientasi tidak menjamin tempat berlindung aman.|خريطة التخطيط أو نقطة لقاء الجولة لا تضمن مكان لجوء آمنًا.|规划地图或导览集合点不保证是安全避难处。|規劃地圖或導覽集合點不保證是安全避難處。|Una mappa di pianificazione o un ritrovo non garantiscono un rifugio sicuro.
+627|INFORMASI GEDUNG|معلومات المبنى|楼宇信息|樓宇資訊|INFORMAZIONI SULL’EDIFICIO
+628|Belum diatur|غير مُعدّ|尚未配置|尚未設定|Non configurato
+629|Ini lembar persiapan pribadi, bukan peringatan langsung atau sertifikasi evakuasi. Jaga privasi dan perbarui.|هذه ورقة استعداد شخصية، وليست تحذيرًا مباشرًا أو شهادة إخلاء. حافظ على خصوصيتها وحدّثها.|这是个人准备表，并非实时预警或疏散认证。请妥善保密并保持更新。|這是個人準備表，並非即時預警或疏散認證。請妥善保密並保持更新。|È una scheda di preparazione personale, non un’allerta in tempo reale né una certificazione. Tienila privata e aggiornata.
+630|HANYA LATIHAN - Tur gedung Southbank|للتجربة فقط - جولة مبنى ساوثبانك|仅供模拟 - Southbank 楼宇参观|僅供模擬 - Southbank 樓宇導覽|SOLO PROVA - Visita dell’edificio a Southbank
+631|Bukan reservasi nyata. Penyelenggara belum dihubungi. Minta tautan pemesanan nyata.|لا يوجد حجز فعلي. لم يُتواصل مع أي منظّم. اطلب رابط الحجز الفعلي.|不是真实预约，未联系组织者。请索取真实预约链接。|不是真實預約，未聯絡主辦人。請索取真實預約連結。|Nessuna prenotazione reale. Nessun organizzatore è stato contattato. Chiedi il link reale.
+632|Akan dikonfirmasi - hanya demonstrasi|يؤكد لاحقًا - للعرض فقط|待确认 - 仅供演示|待確認 - 僅供示範|Da confermare - solo dimostrazione

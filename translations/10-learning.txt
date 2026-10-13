@@ -1,0 +1,109 @@
+665|Rencana yang layak disimpan.|خطة تستحق الاحتفاظ بها.|值得贴在墙上的计划。|值得貼在牆上的計畫。|Un piano da tenere a portata di mano.
+666|Informasi pintu keluar aksesibel|معلومات المخارج الميسّرة|无障碍出口信息|無障礙出口資訊|Informazioni sulle uscite accessibili
+667|Alamat|العنوان|地址|地址|Indirizzo
+668|Telepon di luar jam kerja|هاتف خارج ساعات العمل|非工作时间联系电话|非工作時間聯絡電話|Telefono fuori orario
+669|Sepakati bantuan, pintu keluar aksesibel, dan daya cadangan peralatan sejak dini. Jangan mengandalkan lift.|اتفقوا مسبقاً على المساعدة والمخارج الميسّرة والطاقة الاحتياطية للمعدات. لا تعتمدوا على المصاعد.|提前商定援助、无障碍出口和设备备用电源。不要依赖电梯。|提前商定援助、無障礙出口和設備備用電源。不要依賴電梯。|Concorda in anticipo assistenza, uscite accessibili e alimentazione di riserva. Non fare affidamento sugli ascensori.
+670|ID peserta anonim|معرّف المتعلم المجهول|匿名学习者编号|匿名學習者編號|ID anonimo del partecipante
+671|Peserta anonim|المتعلمون المجهولون|匿名学习者|匿名學習者|Partecipanti anonimi
+672|Hasil belajar anonim.|نتائج التعلّم المجهولة.|匿名学习结果。|匿名學習結果。|Risultati di apprendimento anonimi.
+673|Prosedur darurat gedung|إجراءات الطوارئ في المبنى|楼宇应急程序|大樓緊急應變程序|Procedura di emergenza dell’edificio
+674|Infrastruktur gedung|تجهيزات المبنى|楼宇设施|大樓設施|Infrastrutture dell’edificio
+675|Perubahan|التغيّر|变化|變化|Variazione
+676|Pilih satu jawaban, kecuali pertanyaan meminta memilih semua yang sesuai.|اختر إجابة واحدة، إلا إذا طُلب اختيار كل الإجابات المناسبة.|除非题目要求多选，否则请选择一个答案。|除非題目要求多選，否則請選擇一個答案。|Scegli una risposta, salvo quando è richiesto di selezionare tutte quelle pertinenti.
+677|Pilih informasi yang nyaman Anda tampilkan. Hapus centang untuk mencetak salinan kosong.|اختر المعلومات التي ترتاح لعرضها. أزل العلامة لطباعة نسخة فارغة.|只展示您愿意公开的信息。取消勾选可打印空白版本。|只展示您願意公開的資訊。取消勾選可列印空白版本。|Mostra solo ciò che ti senti di esporre. Deseleziona per stampare una copia vuota.
+678|Menghapus data perangkat tidak menghapus hasil yang sudah dibagikan. Hapus hasil bersama terlebih dahulu untuk menghapusnya dari server.|مسح هذا الجهاز لا يحذف النتائج التي تمت مشاركتها. احذف النتائج المشتركة أولاً إذا أردت إزالتها من الخادم.|清除此设备的数据不会删除已分享的结果。若要从服务器删除，请先删除已分享的结果。|清除此裝置的資料不會刪除已分享的結果。若要從伺服器刪除，請先刪除已分享的結果。|Cancellare i dati del dispositivo non elimina i risultati già condivisi. Elimina prima i risultati condivisi per rimuoverli dal server.
+679|Sesi dengan perbandingan lengkap|الجولات ذات المقارنة المكتملة|可完整对比的学习轮次|可完整對比的學習輪次|Sessioni con confronto completo
+680|Hanya sesi dengan perbandingan lengkap|الجولات ذات المقارنة المكتملة فقط|仅统计可完整对比的轮次|僅統計可完整對比的輪次|Solo sessioni con confronto completo
+681|Benar|صحيح|正确|正確|Corretta
+682|Setiap mulai ulang menjadi sesi baru. Perbandingan memakai tes akhir pertama, sehingga tes berikutnya tidak menimpanya. Data awal yang tidak lengkap tidak masuk rata-rata.|كل بدء جديد يُسجّل كجولة جديدة. تستخدم المقارنة أول اختبار نهائي، فلا تستبدله الإعادات اللاحقة. تُستبعد بيانات البداية غير المكتملة من المتوسطات.|每次重新开始都会创建新的学习轮次。对比使用第一次最终测试，后续重测不会覆盖它。初次答题记录不完整的轮次不计入平均值。|每次重新開始都會建立新的學習輪次。對比使用第一次最終測驗，後續重測不會覆蓋它。初次答題紀錄不完整的輪次不計入平均值。|Ogni riavvio crea una nuova sessione. Il confronto usa la prima verifica finale, che le ripetizioni successive non sovrascrivono. I dati iniziali incompleti sono esclusi dalle medie.
+683|Kontak darurat|جهات اتصال الطوارئ|紧急联系方式|緊急聯絡方式|Contatti di emergenza
+684|Semua jawaban yang dikirim, berurutan|كل إجابة مُرسلة، بالترتيب|按顺序显示每次提交的答案|依序顯示每次提交的答案|Tutte le risposte inviate, in ordine
+685|Setiap percobaan berguna. Tinjau pilihan yang lebih aman di bawah, lalu bawa pertanyaan Anda saat tur gedung.|كل محاولة مفيدة. راجع الخيارات الأكثر أماناً أدناه، ثم اطرح أسئلتك أثناء جولة المبنى.|每次尝试都有价值。回顾下方更安全的选择，并在楼宇参观时提出您的疑问。|每次嘗試都有價值。回顧下方更安全的選擇，並在大樓導覽時提出您的疑問。|Ogni tentativo è utile. Rivedi le scelte più sicure qui sotto e porta le tue domande alla visita dell’edificio.
+686|Ekspor riwayat jawaban (CSV)|تصدير سجل الإجابات (CSV)|导出答题历史（CSV）|匯出答題歷史（CSV）|Esporta lo storico delle risposte (CSV)
+687|Peta dan tautan pemesanan eksternal memakai kebijakan privasinya sendiri. Catatan rencana tidak disertakan dalam tautan tersebut.|للخرائط وروابط الحجز الخارجية سياسات خصوصية خاصة بها. لا تُرفق ملاحظات الخطة بهذه الروابط.|外部地图和预约链接遵循各自的隐私政策。计划笔记不会附加到这些链接中。|外部地圖和預約連結遵循各自的隱私政策。計畫筆記不會附加到這些連結中。|Mappe e link di prenotazione esterni hanno le proprie informative sulla privacy. Nessuna nota del piano viene allegata ai link.
+688|UNTUK PENYELENGGARA|للمنظّم|供组织者使用|供主辦者使用|PER L’ORGANIZZATORE
+689|Jawaban akhir|الإجابة النهائية|最终答案|最終答案|Risposta finale
+690|Tes akhir|الاختبار النهائي|最终测试|最終測驗|Verifica finale
+691|Tes akhir|الاختبارات النهائية|最终测试次数|最終測驗次數|Verifiche finali
+692|Jawaban pertama|الإجابة الأولى|首次答案|首次答案|Prima risposta
+693|Tes akhir pertama|أول اختبار نهائي|第一次最终测试|第一次最終測驗|Prima verifica finale
+694|Percobaan pertama|المحاولات الأولى|首次尝试|首次嘗試|Primi tentativi
+695|Untuk cetakan rapi, gunakan A4, skala 100%, dan nonaktifkan header serta footer browser.|للطباعة بوضوح، استخدم ورق A4 ومقياس 100% وأوقف رؤوس وتذييلات المتصفح.|建议使用 A4、100% 比例，并关闭浏览器的页眉和页脚。|建議使用 A4、100% 比例，並關閉瀏覽器的頁首和頁尾。|Per una stampa pulita, usa A4, scala 100% e disattiva intestazioni e piè di pagina del browser.
+696|Catatan lengkap di halaman berikut|الملاحظة كاملة في الصفحات التالية|完整笔记见后续页|完整筆記見後續頁|Nota completa nelle pagine successive
+697|Isi penting tas darurat|أساسيات حقيبة الطوارئ|应急包必备品|應急包必備品|Essenziali della borsa di emergenza
+698|Sertakan catatan pribadi saya|تضمين ملاحظاتي الشخصية|包含我的个人笔记|包含我的個人筆記|Includi le mie note personali
+699|Salah|غير صحيح|错误|錯誤|Errata
+700|Simpan halaman ini bersama rencana Anda.|احتفظ بهذه الصفحات مع خطتك.|请将这些页面与您的计划放在一起。|請將這些頁面與您的計畫放在一起。|Conserva queste pagine insieme al piano.
+701|Terakhir diverifikasi|آخر تحقق|上次核实日期|上次核實日期|Ultima verifica
+702|Tes akhir terbaru|آخر اختبار نهائي|最近一次最终测试|最近一次最終測驗|Ultima verifica finale
+703|Sesi belajar|جولات التعلّم|学习轮次|學習輪次|Sessioni di apprendimento
+704|Mode lokal: riwayat kuis tetap di perangkat ini. Buka versi server untuk berbagi hasil dengan penyelenggara.|الوضع المحلي: يبقى سجل الاختبارات على هذا الجهاز. افتح نسخة الخادم لمشاركة النتائج مع المنظّم.|本地模式：答题历史保留在此设备上。通过服务器版本访问才能与组织者分享结果。|本機模式：答題歷史保留在此裝置上。透過伺服器版本存取才能與主辦者分享結果。|Modalità locale: lo storico dei quiz resta su questo dispositivo. Apri la versione server per condividere i risultati con l’organizzatore.
+705|Kunci hasil|قفل النتائج|锁定结果|鎖定結果|Blocca risultati
+706|ORANG TERDEKAT. TEMPAT TUJUAN. LANGKAH SAYA.|أشخاصي. أماكني. خطواتي القادمة.|我的联系人、目的地和下一步。|我的聯絡人、目的地和下一步。|LE MIE PERSONE. I MIEI LUOGHI. I PROSSIMI PASSI.
+707|Pindahkan barang berharga dari basemen sejak dini, selagi aman. Jangan masuk setelah air mulai masuk.|انقل مقتنيات القبو مبكراً ما دام ذلك آمناً. ابقَ خارجه بمجرد دخول المياه.|趁安全时尽早转移地下室贵重物品。进水后切勿进入。|趁安全時儘早轉移地下室貴重物品。進水後切勿進入。|Sposta per tempo gli oggetti di valore dal seminterrato, finché è sicuro. Non entrare quando arriva l’acqua.
+708|Rencana banjir saya|خطتي للفيضانات|我的防洪计划|我的防洪計畫|Il mio piano per le alluvioni
+709|Jangan pernah memasuki air banjir.|لا تدخل مياه الفيضانات أبداً.|切勿进入洪水。|切勿進入洪水。|Non entrare mai nell’acqua di un’alluvione.
+710|Belum ada jawaban yang dibagikan. Peserta perlu membuka versi server dan mengaktifkan berbagi anonim sebelum menjawab.|لا توجد إجابات مشتركة بعد. يجب فتح نسخة الخادم وتفعيل المشاركة المجهولة قبل الإجابة.|尚无分享的答案。学习者需要打开服务器版本，并在答题前开启匿名分享。|尚無分享的答案。學習者需要開啟伺服器版本，並在答題前開啟匿名分享。|Nessuna risposta condivisa. I partecipanti devono aprire la versione server e attivare la condivisione anonima prima di rispondere.
+711|Tidak tercatat|غير مسجّل|未记录|未記錄|Non registrata
+712|Satu latihan terakhir.|تدريب أخير.|最后再练习一次。|最後再練習一次。|Un ultimo esercizio.
+713|Buka hasil|فتح النتائج|打开结果|開啟結果|Apri risultati
+714|Kunci penyelenggara|مفتاح المنظّم|组织者密钥|主辦者金鑰|Chiave dell’organizzatore
+715|Hasil untuk penyelenggara|نتائج المنظّم|组织者结果面板|主辦者結果面板|Risultati per l’organizzatore
+716|GABUNGKAN SEMUANYA|اجمع ما تعلّمته|综合练习|綜合練習|METTI INSIEME CIÒ CHE HAI IMPARATO
+717|Bawa ketujuh barang penting. Jangan bawa lilin, perabot berat, atau kompor berkemah untuk penggunaan di dalam ruangan.|احزم الأساسيات السبعة. استبعد الشموع والأثاث الثقيل وموقد التخييم للاستخدام داخل المبنى.|装入全部七类必备品。不要放入蜡烛、沉重家具或用于室内的露营炉。|裝入全部七類必備品。不要放入蠟燭、沉重家具或用於室內的露營爐。|Prepara tutti e sette gli essenziali. Escludi candele, mobili pesanti e fornelli da campeggio per uso interno.
+718|Lembar rencana pribadi. Pastikan pengaturan gedung. Ini bukan peringatan langsung atau jaminan rute aman.|ورقة تخطيط شخصية. تحقّق من ترتيبات المبنى. ليست تحذيراً مباشراً أو ضماناً لمسار آمن.|个人计划表。请确认楼宇安排。这不是实时预警，也不保证路线安全。|個人計畫表。請確認大樓安排。這不是即時警報，也不保證路線安全。|Scheda di pianificazione personale. Conferma le disposizioni dell’edificio. Non è un’allerta in tempo reale né una garanzia di percorso sicuro.
+719|Rincian rencana|تفاصيل الخطة|计划详情|計畫詳情|Dettagli del piano
+720|Latihan|تدريب|练习|練習|Esercizio
+721|Pratinjau rencana PDF saya|معاينة خطتي بصيغة PDF|预览我的 PDF 计划|預覽我的 PDF 計畫|Anteprima del mio piano PDF
+722|Cetak salinan A4 atau pilih “Simpan sebagai PDF” di jendela cetak. Catatan panjang dilanjutkan di halaman tambahan.|اطبع نسخة A4 أو اختر «حفظ بصيغة PDF» في نافذة الطباعة. تستمر الملاحظات الطويلة في صفحات إضافية.|打印 A4 版本，或在打印窗口选择“另存为 PDF”。较长的笔记会延续到额外页面。|列印 A4 版本，或在列印視窗選擇「另存為 PDF」。較長的筆記會延續到額外頁面。|Stampa una copia A4 o scegli “Salva come PDF” nella finestra di stampa. Le note lunghe proseguono su pagine aggiuntive.
+723|Rencana banjir siap cetak|خطة فيضانات قابلة للطباعة|可打印的防洪计划|可列印的防洪計畫|Piano alluvioni stampabile
+724|Progres, catatan rencana, pilihan dukungan, dan pemesanan latihan tetap di browser ini. Catatan tetap tersimpan setelah ditutup hanya jika Anda memilih “Ingat catatan ini”.|يبقى التقدّم وملاحظات الخطة وخيارات الدعم والحجوزات التدريبية في هذا المتصفح. تُحفظ الملاحظات بعد الإغلاق فقط عند اختيار «تذكّر هذه الملاحظات».|进度、个人计划笔记、支持选项和模拟预约都保留在此浏览器中。只有选择“记住这些笔记”，笔记才会在关闭后保留。|進度、個人計畫筆記、支援選項和模擬預約都保留在此瀏覽器中。只有選擇「記住這些筆記」，筆記才會在關閉後保留。|Progressi, note personali, scelte di supporto e prenotazioni di prova restano nel browser. Le note restano dopo la chiusura solo scegliendo “Ricorda queste note”.
+725|Pertanyaan|السؤال|题目|題目|Domanda
+726|Jawaban kuis, percobaan ulang, dan skor dapat dibagikan dengan ID peserta acak. Nama, catatan pribadi, pilihan dukungan, dan detail pemesanan tidak pernah disertakan.|يمكن مشاركة الإجابات وإعادات المحاولة والدرجات بمعرّف عشوائي. لا يُضمّن اسمك أو ملاحظات خطتك أو خيارات دعمك أو تفاصيل الحجز.|可使用随机学习者编号分享答案、重试和分数。不会包含姓名、个人计划笔记、支持选项或预约详情。|可使用隨機學習者編號分享答案、重試和分數。不會包含姓名、個人計畫筆記、支援選項或預約詳情。|Risposte, tentativi e punteggi possono essere condivisi con un ID casuale. Nome, note personali, scelte di supporto e dettagli di prenotazione non sono mai inclusi.
+727|SIAP UNTUK DINDING ANDA|جاهزة للتعليق على الحائط|可以贴在墙上|可以貼在牆上|PRONTO DA APPENDERE
+728|Pertanyaan latihan yang tercatat|أسئلة التدريب المسجّلة|已记录的练习题|已記錄的練習題|Domande di esercizio registrate
+729|Muat ulang hasil|تحديث النتائج|刷新结果|重新整理結果|Aggiorna risultati
+730|Hasil|النتيجة|结果|結果|Risultato
+731|ID sesi|معرّف الجولة|学习轮次编号|學習輪次編號|ID sessione
+732|Pilihan lebih aman|الخيار الأكثر أماناً|更安全的选择|更安全的選擇|Scelta più sicura
+733|Hanya pertanyaan tercatat yang sama|الأسئلة المسجّلة نفسها فقط|仅对比相同的已记录题目|僅對比相同的已記錄題目|Solo le stesse domande registrate
+734|Lihat kemajuan Anda.|شاهد مدى تقدّمك.|看看您的进步。|看看您的進步。|Guarda i tuoi progressi.
+735|Lihat hasil saya|عرض نتائجي|查看我的结果|查看我的結果|Vedi i miei risultati
+736|Lihat jawaban awal, percobaan ulang, dan tes akhir dari peserta yang memilih berbagi.|اطّلع على الإجابات الأصلية وإعادات المحاولة والاختبارات النهائية لمن اختاروا المشاركة.|查看选择分享的学习者的原始答案、重试和最终测试。|查看選擇分享的學習者的原始答案、重試和最終測驗。|Consulta risposte originali, tentativi e verifiche finali di chi ha scelto di condividere.
+737|Pilih semua yang perlu masuk tas.|اختر كل ما يجب وضعه في الحقيبة.|请选择所有应装入包内的物品。|請選擇所有應裝入包內的物品。|Seleziona tutto ciò che va nella borsa.
+738|Jawaban yang dipilih|الإجابة المختارة|所选答案|所選答案|Risposta selezionata
+739|Berbagi dinonaktifkan.|المشاركة متوقفة.|分享已关闭。|分享已關閉。|Condivisione disattivata.
+740|Sebagian jawaban pertama tidak tercatat. Perbandingan hanya memakai pertanyaan dengan percobaan pertama yang tercatat. Mulai jalur ini lagi untuk perbandingan lengkap.|لم تُسجّل بعض الإجابات الأولى. تستخدم المقارنة الأسئلة ذات المحاولة الأولى المسجّلة فقط. ابدأ المسار مجدداً للحصول على مقارنة كاملة.|部分首次答案未记录。对比仅使用有首次答题记录的题目。重新开始此学习路径可获得完整对比。|部分首次答案未記錄。對比僅使用有首次答題紀錄的題目。重新開始此學習路徑可獲得完整對比。|Alcune prime risposte non sono state registrate. Il confronto usa solo le domande con un primo tentativo registrato. Ricomincia il percorso per un confronto completo.
+741|Southbank, Melbourne · Simpan di tempat yang mudah ditemukan.|ساوثبانك، ملبورن · احفظها في مكان يسهل العثور عليه.|墨尔本 Southbank · 放在容易找到的地方。|墨爾本 Southbank · 放在容易找到的地方。|Southbank, Melbourne · Tienilo in un posto facile da trovare.
+742|Tahap|المرحلة|阶段|階段|Fase
+743|Pilihan itu dapat membahayakan seseorang. Baca kembali tips di atas dan coba lagi. Tidak ada batas waktu.|قد يعرّض هذا الخيار شخصاً للخطر. راجع النصائح أعلاه وحاول مجدداً. لا يوجد حد زمني.|这个选择可能使人面临危险。请回顾上面的提示，再试一次。没有时间限制。|這個選擇可能使人面臨危險。請回顧上面的提示，再試一次。沒有時間限制。|Questa scelta potrebbe mettere qualcuno a rischio. Rileggi i consigli e riprova. Non c’è limite di tempo.
+744|Server menyimpan kunci pribadi Anda di .data/admin-key.txt. Jaga kerahasiaannya.|يحفظ الخادم مفتاحك الخاص في .data/admin-key.txt. احتفظ به سراً.|服务器将私密密钥保存在 .data/admin-key.txt。请妥善保密。|伺服器將私密金鑰保存在 .data/admin-key.txt。請妥善保密。|Il server salva la chiave privata in .data/admin-key.txt. Mantienila riservata.
+745|Ulangi tes akhir ↻|أعِد الاختبار النهائي ↻|再次进行最终测试 ↻|再次進行最終測驗 ↻|Ripeti la verifica finale ↻
+746|Coba lagi pertanyaan yang sama, termasuk tas darurat. Kirim semua jawaban untuk melihat perubahan sejak percobaan pertama. Tidak ada batas waktu.|جرّب الأسئلة نفسها مجدداً، بما فيها حقيبة الطوارئ. أرسل جميع إجاباتك لرؤية التغيّر منذ المحاولة الأولى. لا يوجد حد زمني.|再次回答相同题目，包括应急包活动。提交全部答案后，即可查看与首次尝试相比的变化。没有时间限制。|再次回答相同題目，包括應急包活動。提交全部答案後，即可查看與首次嘗試相比的變化。沒有時間限制。|Riprova le stesse domande, inclusa la borsa di emergenza. Invia tutte le risposte per vedere cosa è cambiato dal primo tentativo. Non c’è limite di tempo.
+747|Gunakan hanya rincian yang dikonfirmasi tim gedung. Titik temu orientasi tidak otomatis menjadi tempat berlindung saat banjir.|استخدم فقط التفاصيل التي أكدها فريق المبنى. نقطة لقاء الجولة ليست تلقائياً ملجأً من الفيضانات.|仅使用楼宇团队确认的信息。导览集合点不一定是洪水避难场所。|僅使用大樓團隊確認的資訊。導覽集合點不一定是洪水避難場所。|Usa solo dettagli confermati dal personale dell’edificio. Il punto di ritrovo della visita non è automaticamente un rifugio dalle alluvioni.
+748|Informasi gedung terverifikasi|معلومات المبنى المتحقّق منها|已核实的楼宇信息|已核實的大樓資訊|Informazioni verificate sull’edificio
+749|Apa yang membawa perubahan?|ما الذي يُحدث فرقاً؟|学习带来了哪些变化？|學習帶來了哪些變化？|Che cosa sta facendo la differenza?
+750|Barang apa yang perlu masuk tas darurat Anda?|ما الأغراض التي يجب وضعها في حقيبة الطوارئ؟|哪些物品应放入应急包？|哪些物品應放入應急包？|Quali oggetti vanno nella borsa di emergenza?
+751|Dengan izin Anda, jawaban kuis anonim, percobaan ulang, skor, dan waktu disimpan di server penyelenggara. Nama, kontak, dan catatan rencana tidak dikirim.|بإذنك، تُحفظ الإجابات وإعادات المحاولة والدرجات وأوقاتها على خادم المنظّم بشكل مجهول. لا تُرسل أسماء أو بيانات اتصال أو ملاحظات الخطة.|经您允许，匿名答案、重试、分数和时间会保存在组织者的服务器上。不会发送姓名、联系方式或计划笔记。|經您允許，匿名答案、重試、分數和時間會保存在主辦者的伺服器上。不會傳送姓名、聯絡方式或計畫筆記。|Con il tuo consenso, risposte anonime, tentativi, punteggi e orari sono salvati sul server dell’organizzatore. Non vengono inviati nomi, contatti o note del piano.
+752|RINGKASAN BELAJAR ANDA|لمحة عن تعلّمك|您的学习概览|您的學習概覽|IL TUO APPRENDIMENTO IN BREVE
+753|Belajar Anda, pilihan Anda.|تعلّمك، خيارك.|您的学习，由您选择。|您的學習，由您選擇。|Il tuo apprendimento, la tua scelta.
+754|poin persentase|نقطة مئوية|个百分点|個百分點|punti percentuali
+755|← Rencana saya|← خطتي|← 我的计划|← 我的計畫|← Il mio piano
+756|Bagikan hasil kuis anonim saya kepada penyelenggara|مشاركة نتائج اختباراتي المجهولة مع المنظّم|与组织者分享我的匿名答题结果|與主辦者分享我的匿名答題結果|Condividi i miei risultati anonimi con l’organizzatore
+757|Hanya jawaban yang dikirim setelah diaktifkan yang dibagikan. Ubah pengaturan ini di “Data Anda”.|تُشارك فقط الإجابات المرسلة بعد التفعيل. يمكنك تغيير ذلك في «بياناتك».|仅分享开启后提交的答案。您可以在“您的数据”中更改此设置。|僅分享開啟後提交的答案。您可以在「您的資料」中變更此設定。|Vengono condivise solo le risposte inviate dopo l’attivazione. Puoi cambiare questa scelta in “I tuoi dati”.
+758|Tidak ada barang dipilih|لم تُحدّد أغراض|未选择物品|未選擇物品|Nessun oggetto selezionato
+759|Tinjau kembali|راجع هذا|请复习|請複習|Da rivedere
+760|Penyimpanan browser tidak tersedia. Riwayat kuis dapat hilang saat halaman ditutup.|تخزين المتصفح غير متاح. قد تفقد سجل الاختبارات عند إغلاق الصفحة.|浏览器存储不可用。关闭页面后可能丢失答题历史。|瀏覽器儲存不可用。關閉頁面後可能遺失答題歷史。|La memoria del browser non è disponibile. Lo storico potrebbe andare perso chiudendo la pagina.
+761|Hasil menunggu diunggah. Periksa koneksi dan coba lagi.|النتائج بانتظار الرفع. تحقّق من الاتصال وحاول مجدداً.|结果等待上传。请检查连接并重试。|結果等待上傳。請檢查連線並重試。|I risultati sono in attesa di caricamento. Controlla la connessione e riprova.
+762|Sebagian hasil menunggu diunggah.|بعض النتائج بانتظار الرفع.|部分结果等待上传。|部分結果等待上傳。|Alcuni risultati sono in attesa di caricamento.
+763|Jawaban yang Anda bagikan sudah tersimpan semua.|إجاباتك المشتركة محدّثة.|已分享的答案均已同步。|已分享的答案均已同步。|Le risposte condivise sono aggiornate.
+764|Coba unggah lagi|إعادة محاولة الرفع|重试上传|重試上傳|Riprova caricamento
+765|Hapus hasil kuis yang saya bagikan|حذف نتائج اختباراتي المشتركة|删除我已分享的答题结果|刪除我已分享的答題結果|Elimina i miei risultati condivisi
+766|Hasil tidak dapat dibuka. Periksa server dan kunci penyelenggara.|تعذّر فتح النتائج. تحقّق من الخادم ومفتاح المنظّم.|无法打开结果。请检查服务器和组织者密钥。|無法開啟結果。請檢查伺服器和主辦者金鑰。|Impossibile aprire i risultati. Controlla il server e la chiave dell’organizzatore.
+767|Berbagi anonim aktif untuk jawaban berikutnya.|المشاركة المجهولة مفعّلة للإجابات القادمة.|匿名分享已开启，将用于后续答案。|匿名分享已開啟，將用於後續答案。|Condivisione anonima attiva per le prossime risposte.
+768|Jawab semua pertanyaan, termasuk tas darurat, sebelum mengirim.|أجب عن كل الأسئلة، بما فيها الحقيبة، قبل الإرسال.|提交前请回答所有题目，包括应急包题目。|提交前請回答所有題目，包括應急包題目。|Rispondi a tutte le domande, inclusa la borsa, prima di inviare.
+769|Hapus hasil yang dibagikan?|حذف النتائج المشتركة؟|删除已分享的结果？|刪除已分享的結果？|Eliminare i risultati condivisi?
+770|Ini menghapus semua hasil kuis dari ID peserta browser ini di server ini. Progres dan rencana lokal tetap tersedia. Berbagi akan dinonaktifkan.|سيحذف هذا كل نتائج الاختبارات المشتركة بمعرّف هذا المتصفح من هذا الخادم. يبقى تقدّمك وخطتك محلياً. ستتوقف المشاركة.|这将从此服务器删除由此浏览器学习者编号分享的所有答题结果。本地进度和计划会保留。分享将关闭。|這將從此伺服器刪除由此瀏覽器學習者編號分享的所有答題結果。本機進度和計畫會保留。分享將關閉。|Elimina dal server tutti i risultati condivisi dall’ID di questo browser. Progressi e piano locali restano disponibili. La condivisione sarà disattivata.
+771|Hasil kuis yang Anda bagikan telah dihapus.|تم حذف نتائج اختباراتك المشتركة.|您已分享的答题结果已删除。|您已分享的答題結果已刪除。|I tuoi risultati condivisi sono stati eliminati.
+772|Hasil bersama tidak dapat dihapus. Jalankan server dan coba lagi sebelum menghapus data lokal.|تعذّر حذف النتائج المشتركة. شغّل الخادم وحاول مجدداً قبل مسح البيانات المحلية.|无法删除已分享的结果。请启动服务器并重试，然后再清除本地数据。|無法刪除已分享的結果。請啟動伺服器並重試，然後再清除本機資料。|Impossibile eliminare i risultati condivisi. Avvia il server e riprova prima di cancellare i dati locali.
+773|Ini menghapus progres, pilihan tas, catatan pribadi, dan pemesanan latihan. Simpan PDF dahulu jika perlu. Hasil bersama tetap di server kecuali Anda menghapusnya dahulu di “Data Anda”. Pengaturan gedung tetap ada.|يحذف هذا التقدّم المحفوظ وخيارات الحقيبة والملاحظات والحجز التدريبي. احفظ ملف PDF أولاً إن أردت الاحتفاظ به. تبقى النتائج المشتركة على الخادم ما لم تحذفها أولاً في «بياناتك». تبقى إعدادات المبنى.|这会删除已保存的进度、应急包选择、个人笔记和模拟预约。如需保留，请先保存 PDF。已分享的答题结果会留在服务器，除非先在“您的数据”中删除。楼宇设置会保留。|這會刪除已儲存的進度、應急包選擇、個人筆記和模擬預約。如需保留，請先儲存 PDF。已分享的答題結果會留在伺服器，除非先在「您的資料」中刪除。大樓設定會保留。|Elimina progressi, scelte della borsa, note e prenotazione di prova. Salva prima il PDF se vuoi conservarlo. I risultati condivisi restano sul server finché non li elimini in “I tuoi dati”. Le impostazioni dell’edificio restano.
