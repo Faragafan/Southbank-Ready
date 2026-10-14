@@ -1,0 +1,26 @@
+# Deploy from Render > New > Blueprint. This uses a PAID service and disk.
+services:
+  - type: web
+    name: southbank-ready
+    runtime: node
+    plan: 0.5c-512mb
+    region: singapore
+    buildCommand: npm run build
+    startCommand: npm start
+    healthCheckPath: /api/status
+    autoDeployTrigger: commit
+    disk:
+      name: southbank-results
+      mountPath: /var/data
+      sizeGB: 1
+    envVars:
+      - key: NODE_VERSION
+        value: "24.21.0"
+      - key: NODE_ENV
+        value: production
+      - key: SOUTHBANK_HOST
+        value: 0.0.0.0
+      - key: SOUTHBANK_DATA_DIR
+        value: /var/data
+      - key: SOUTHBANK_ADMIN_KEY
+        generateValue: true

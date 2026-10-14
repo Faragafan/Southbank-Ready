@@ -743,7 +743,7 @@
   "Southbank, Melbourne · Keep it somewhere easy to find.",
   "Stage",
   "That choice could leave someone at risk. Look back at the tips above and try again. There is no time limit.",
-  "The server saves your private key in .data/admin-key.txt. Keep it private.",
+  "Use the organiser key from your hosting settings, or .data/admin-key.txt when running locally. Keep it private.",
   "Try the final check again ↻",
   "Try the same questions again, including your emergency kit. Submit all your answers to see what has changed since your first try. There is no time limit.",
   "Use only details confirmed by the building team. An orientation meeting point is not automatically a flood refuge.",

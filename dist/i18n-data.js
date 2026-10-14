@@ -4943,12 +4943,12 @@ const TRANSLATIONS={
     "zh-Hant": "這個選擇可能使人面臨危險。請回顧上面的提示，再試一次。沒有時間限制。",
     "it": "Questa scelta potrebbe mettere qualcuno a rischio. Rileggi i consigli e riprova. Non c’è limite di tempo."
   },
-  "The server saves your private key in .data/admin-key.txt. Keep it private.": {
-    "id": "Server menyimpan kunci pribadi Anda di .data/admin-key.txt. Jaga kerahasiaannya.",
-    "ar": "يحفظ الخادم مفتاحك الخاص في .data/admin-key.txt. احتفظ به سراً.",
-    "zh-Hans": "服务器将私密密钥保存在 .data/admin-key.txt。请妥善保密。",
-    "zh-Hant": "伺服器將私密金鑰保存在 .data/admin-key.txt。請妥善保密。",
-    "it": "Il server salva la chiave privata in .data/admin-key.txt. Mantienila riservata."
+  "Use the organiser key from your hosting settings, or .data/admin-key.txt when running locally. Keep it private.": {
+    "id": "Gunakan kunci penyelenggara dari pengaturan hosting Anda, atau dari .data/admin-key.txt saat menjalankan situs secara lokal. Jaga kerahasiaannya.",
+    "ar": "استخدم مفتاح المنظّم من إعدادات الاستضافة، أو من الملف .data/admin-key.txt عند التشغيل محلياً. احتفظ به سراً.",
+    "zh-Hans": "请使用托管设置中的组织者密钥；在本地运行时，请使用 .data/admin-key.txt 中的密钥。请妥善保密。",
+    "zh-Hant": "請使用託管設定中的主辦者金鑰；在本機執行時，請使用 .data/admin-key.txt 中的金鑰。請妥善保密。",
+    "it": "Usa la chiave dell’organizzatore nelle impostazioni di hosting, oppure quella in .data/admin-key.txt se esegui il sito in locale. Mantienila riservata."
   },
   "Try the final check again ↻": {
     "id": "Ulangi tes akhir ↻",

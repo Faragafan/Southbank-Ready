@@ -15,11 +15,11 @@ const same=(a,b)=>crypto.timingSafeEqual(hash(a),hash(b));
 const mime={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.png':'image/png','.jpg':'image/jpeg','.jpeg':'image/jpeg','.svg':'image/svg+xml','.pdf':'application/pdf','.json':'application/json; charset=utf-8'};
 const fail=(status,message)=>Object.assign(new Error(message),{status});
 
-export function createApp({dataDir=process.env.SOUTHBANK_DATA_DIR||path.join(project,'.data'),adminKey}={}){
+export function createApp({dataDir=process.env.SOUTHBANK_DATA_DIR||path.join(project,'.data'),adminKey=process.env.SOUTHBANK_ADMIN_KEY}={}){
  fs.mkdirSync(dataDir,{recursive:true,mode:0o700});
- const keyFile=path.join(dataDir,'admin-key.txt');
- if(!adminKey){if(!fs.existsSync(keyFile))fs.writeFileSync(keyFile,crypto.randomBytes(32).toString('hex'),{mode:0o600,flag:'wx'});adminKey=fs.readFileSync(keyFile,'utf8').trim()}
- if(adminKey.length<32)throw new Error('The organiser key must be at least 32 characters.');
+ const keyFile=adminKey===undefined?path.join(dataDir,'admin-key.txt'):null;
+ if(keyFile){if(!fs.existsSync(keyFile))fs.writeFileSync(keyFile,crypto.randomBytes(32).toString('hex'),{mode:0o600,flag:'wx'});adminKey=fs.readFileSync(keyFile,'utf8').trim()}
+ if(typeof adminKey!=='string'||adminKey.length<32)throw new Error('The organiser key must be at least 32 characters.');
  const db=new DatabaseSync(path.join(dataDir,'results.sqlite'));
  db.exec(`PRAGMA journal_mode=WAL; PRAGMA foreign_keys=ON; PRAGMA busy_timeout=5000;
  CREATE TABLE IF NOT EXISTS learners(id TEXT PRIMARY KEY, secret_hash TEXT NOT NULL);
@@ -106,7 +106,9 @@ export function createApp({dataDir=process.env.SOUTHBANK_DATA_DIR||path.join(pro
 }
 
 if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){
- const app=createApp();const host=process.env.SOUTHBANK_HOST||'127.0.0.1';const port=Number(process.env.SOUTHBANK_PORT||4173);
- app.server.listen(port,host,()=>{console.log(`Southbank Ready: http://${host}:${port}`);console.log(`Organiser results: http://${host}:${port}/#organiser`);console.log(`Your private organiser key is in ${app.keyFile}`)});
+ const host=process.env.SOUTHBANK_HOST||'127.0.0.1';const port=Number(process.env.SOUTHBANK_PORT||process.env.PORT||4173);
+ if(!Number.isInteger(port)||port<0||port>65535)throw new Error('PORT or SOUTHBANK_PORT must be a port number between 0 and 65535.');
+ const app=createApp();
+ app.server.listen(port,host,()=>{const listeningPort=app.server.address().port;console.log(`Southbank Ready: http://${host}:${listeningPort}`);console.log(`Organiser results: http://${host}:${listeningPort}/#organiser`);console.log(app.keyFile?`Your private organiser key is in ${app.keyFile}`:'Your private organiser key is set in the SOUTHBANK_ADMIN_KEY environment variable.');});
  for(const signal of ['SIGINT','SIGTERM'])process.on(signal,()=>{void app.close().then(()=>process.exit(0))});
 }

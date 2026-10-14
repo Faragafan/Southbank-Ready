@@ -33,6 +33,8 @@ Failed uploads remain queued locally while sharing is enabled. Use **Your data â
 
 ## Open your results
 
+**On Render:** open your web service's **Environment** settings and copy `SOUTHBANK_ADMIN_KEY`. Visit your live website and click **Organiser results**. Follow [RENDER-DEPLOY.md](RENDER-DEPLOY.md) for the full hosting setup. The local key below is for the server on your computer.
+
 1. Click **Organiser results** in the footer, or open **http://127.0.0.1:4173/#organiser**.
 2. Open `.data/admin-key.txt` in the extracted project folder. On a Mac, press Command+Shift+. in Finder to show the hidden `.data` folder.
 3. Copy the key into the dashboard. Do not share it with learners.
@@ -54,7 +56,7 @@ Old progress from an earlier site version has no first-attempt history. It is la
 
 ## Data location and backup
 
-The database is `.data/results.sqlite`; the organiser key is `.data/admin-key.txt`. These are outside the served `dist` folder. They are excluded from the release ZIP. Stop the server before backing up the entire `.data` folder. Keep the backup private. SQLite data remains after restarting the computer or server.
+Locally, the database is `.data/results.sqlite`; the organiser key is `.data/admin-key.txt`. These are outside the served `dist` folder. They are excluded from the release ZIP. Stop the local server before backing up the entire `.data` folder. Keep the backup private. SQLite data remains after restarting the computer or server. With the supplied Render configuration, the database is `/var/data/results.sqlite` on the persistent disk and the key is `SOUTHBANK_ADMIN_KEY` in Render's Environment settings.
 
 All results APIs require same-origin browser requests; reading results requires the organiser key. The server validates question and answer IDs and calculates correctness itself. The module is an educational tool, not a secure examination or proof of an individualâ€™s identity.
 
@@ -62,6 +64,6 @@ All results APIs require same-origin browser requests; reading results requires 
 
 The default server binds only to **this computer**. A different laptop using its own copy has a separate database. To collect responses from residents on their phones, host this Node application on one shared HTTPS address with persistent private storage, then send everyone that address. Serving only `dist` on a static host cannot collect results.
 
-For a hosting provider, configure `SOUTHBANK_HOST=0.0.0.0`, `SOUTHBANK_PORT` for its required port, and `SOUTHBANK_DATA_DIR` for a private persistent directory. Put HTTPS in front of the application, restrict access to backups and the organiser key, and review retention and hosting access logs before inviting residents. No site has been deployed as part of this update.
+For a hosting provider, configure `SOUTHBANK_HOST=0.0.0.0`, `SOUTHBANK_DATA_DIR` for a private persistent directory, and `SOUTHBANK_ADMIN_KEY` with a random secret of at least 32 characters. The server reads `SOUTHBANK_PORT`, then the provider's `PORT`, then defaults to `4173`. Put HTTPS in front of the application. The supplied [Render setup](RENDER-DEPLOY.md) handles these settings and persistent storage. No site has been deployed as part of this update.
 
 Building and live booking links are still configured through **Facilitator setup**. The quiz database is separate from session booking; the included booking flow remains clearly labelled practice until you supply a real booking link.

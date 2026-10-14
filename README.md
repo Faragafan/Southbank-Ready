@@ -26,6 +26,10 @@ Then visit **http://127.0.0.1:4173**. Keep Terminal open. Windows users can doub
 
 Learners can opt into anonymous sharing on the path-selection page. The **Organiser results** footer link opens a protected dashboard. Your private key is in `.data/admin-key.txt`. See **RESULTS-GUIDE.md** for Mac steps, viewing/exporting responses, backups, privacy and shared hosting.
 
+## Publish on Render
+
+For public hosting, follow [RENDER-DEPLOY.md](RENDER-DEPLOY.md). The included `render.yaml` creates a Node web service with persistent quiz storage and a private organiser key. This uses a paid Render service and disk; review the displayed charges before deploying.
+
 ## What is included
 
 - A simple introduction with a historical flood photograph and one **Get started** button. Path selection is on the following page.
@@ -66,7 +70,7 @@ No building, real session availability or booking service was supplied, so the d
 2. Add building details verified by your building manager, including after-hours contacts, accessible routes, assistance arrangements and backup-power coverage.
 3. Add your HTTPS booking link. An optional separate link can serve the supported orientation.
 4. Save to preview the settings in this browser. The live link replaces the practice form.
-5. To distribute those settings, use **Download config.js**, replace `dist/config.js` with the downloaded file, then share the whole folder or host the contents of `dist` using an HTTPS static host.
+5. To distribute those settings, use **Download config.js**, replace `dist/config.js` with the downloaded file, then share the whole folder or commit the updated file to your hosted repository. Hosting the whole Node app collects shared quiz results; static hosting of only `dist` supports learning without a shared results database.
 
 For a real public rollout, connect a booking system that manages session availability, access requests, privacy, confirmation and cancellations. This static module does not itself run a shared booking database or verify completion on the external booking site. Do not place API keys or private records in config.js.
 
@@ -119,6 +123,8 @@ Run `node serve.mjs` using Node.js 22.13+ and visit `http://127.0.0.1:4173`. The
 - `dist/learning-ui.js` — retest, comparison and organiser dashboard
 - `dist/poster.js`, `dist/learning.css` — A4 poster and new layouts
 - `RESULTS-GUIDE.md` — start, collect, inspect and back up quiz results
+- `RENDER-DEPLOY.md`, `render.yaml` — Render publishing guide and service configuration
+- `package.json`, `scripts/check-deploy.mjs` — hosting startup and pre-deployment checks; no dependencies to install
 
 If the browser supports WebMCP, the page exposes read-progress and start-path tools. They use the same state as the visible UI and do not disclose plan notes.
 

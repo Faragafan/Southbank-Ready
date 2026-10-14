@@ -1,5 +1,16 @@
 # Update verification - 13 October 2026
 
+## Render hosting preparation
+
+- Added a Render Blueprint for one paid Node web service in Singapore, a 1 GB persistent disk at `/var/data`, an automatically generated organiser key and `/api/status` health checks. Configuration fields and plan name were checked against current official Render documentation and its Blueprint schema.
+- The server accepts Render's `PORT` and a `SOUTHBANK_ADMIN_KEY` environment secret. Existing local startup and key-file behavior remain supported. Invalid or empty supplied keys fail validation.
+- Hosting integration tests pass: public binding, provider port, explicit port override, environment-key authentication, no secret printed or written to a key file, protected files, custom database folder and retained quiz responses after restarting the server process.
+- Existing backend regression tests pass for grading, immutable answers, duplicate uploads, final rounds, late consent, authenticated deletion and database persistence.
+- `npm run build` passes. It checks SQLite availability, entry-page assets and JavaScript syntax without opening a persistent database during the build.
+- Updated organiser login guidance in all six languages. The 674-message coverage and language-state/export checks pass.
+- Tests ran locally on Windows with Node 22.14.0. The Blueprint pins Render's documented Node 24.21.0; the hosted Linux deployment and its attached disk still need verification in the user's Render account.
+- The release includes deployment configuration and a step-by-step publishing guide, and excludes local responses, organiser keys and test data. No repository or Render service was created and no deployment was performed.
+
 ## PDF poster and final quiz update
 
 - A4 poster preview checked in English, Indonesian, Arabic (RTL), Simplified Chinese, Traditional Chinese and Italian. No overflow in the sheet, contact cards or personal-plan fields. Notes are escaped; longer/multiline notes continue in full on extra sheets; blank-copy mode omits personal notes.
